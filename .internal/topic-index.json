@@ -11,5 +11,8 @@
   ],
   "Divide and Conquer": [
     "leetcode/0004-median-of-two-sorted-arrays"
+  ],
+  "Math": [
+    "leetcode/0009-palindrome-number"
   ]
 }

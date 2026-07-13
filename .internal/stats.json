@@ -1,7 +1,7 @@
 {
-  "totalSolved": 2,
+  "totalSolved": 3,
   "byDifficulty": {
-    "Easy": 1,
+    "Easy": 2,
     "Medium": 0,
     "Hard": 1
   },
@@ -9,6 +9,6 @@
   "longestStreak": 1,
   "lastSolvedDate": "2026-07-13",
   "activityByDate": {
-    "2026-07-13": 2
+    "2026-07-13": 3
   }
 }

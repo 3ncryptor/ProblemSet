@@ -1,0 +1,14 @@
+[
+  {
+    "folderId": "leetcode/0009-palindrome-number",
+    "frontendId": "9",
+    "title": "Palindrome Number",
+    "slug": "palindrome-number",
+    "difficulty": "Easy",
+    "topics": [
+      "Math"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-07-13T15:22:17.624Z"
+  }
+]
