@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "4",
+  "frontendId": "4",
+  "title": "Median of Two Sorted Arrays",
+  "slug": "median-of-two-sorted-arrays",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Divide and Conquer"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "19.6 MB",
+  "submissionId": "2065861304",
+  "acceptedAt": "2026-07-13T08:10:56.851Z",
+  "updatedAt": "2026-07-13T08:11:02.453Z",
+  "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+  "version": 1
+}

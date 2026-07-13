@@ -1,8 +1,15 @@
 {
   "Array": [
-    "leetcode/0001-two-sum"
+    "leetcode/0001-two-sum",
+    "leetcode/0004-median-of-two-sorted-arrays"
   ],
   "Hash Table": [
     "leetcode/0001-two-sum"
+  ],
+  "Binary Search": [
+    "leetcode/0004-median-of-two-sorted-arrays"
+  ],
+  "Divide and Conquer": [
+    "leetcode/0004-median-of-two-sorted-arrays"
   ]
 }
