@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**1** problems solved — 1 Easy · 0 Medium · 0 Hard
+**2** problems solved — 2 Easy · 0 Medium · 0 Hard
 
 ## Contents
 
@@ -14,14 +14,16 @@
 
 | # | Title | Difficulty | Topics |
 | --- | --- | --- | --- |
+| 0001 | [Two Sum](0001-two-sum/README.md) | Easy | Array, Hash Table |
 | 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Easy | Math |
 
 ## By Difficulty
 
-### Easy (1)
+### Easy (2)
 
 | # | Title | Topics |
 | --- | --- | --- |
+| 0001 | [Two Sum](0001-two-sum/README.md) | Array, Hash Table |
 | 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Math |
 
 ### Medium (0)
@@ -35,6 +37,24 @@ _No problems solved yet._
 ## By Topic
 
 <details>
+<summary>Array (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Hash Table (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
+
+</details>
+
+<details>
 <summary>Math (1)</summary>
 
 | # | Title | Difficulty |
@@ -46,10 +66,11 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (1)</summary>
+<summary>python3 (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
 | 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Easy |
 
 </details>
@@ -58,4 +79,5 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0001 | [Two Sum](0001-two-sum/README.md) | Easy | 2026-07-13 |
 | 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Easy | 2026-07-13 |

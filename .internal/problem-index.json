@@ -10,5 +10,18 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-07-13T15:22:17.624Z"
+  },
+  {
+    "folderId": "leetcode/0001-two-sum",
+    "frontendId": "1",
+    "title": "Two Sum",
+    "slug": "two-sum",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-07-13T17:47:47.570Z"
   }
 ]
