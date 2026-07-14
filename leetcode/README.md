@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**2** problems solved — 2 Easy · 0 Medium · 0 Hard
+**3** problems solved — 2 Easy · 1 Medium · 0 Hard
 
 ## Contents
 
@@ -16,6 +16,7 @@
 | --- | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy | Array, Hash Table |
 | 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Easy | Math |
+| 0015 | [3Sum](0015-3sum/README.md) | Medium | Array, Two Pointers, Sorting |
 
 ## By Difficulty
 
@@ -26,9 +27,11 @@
 | 0001 | [Two Sum](0001-two-sum/README.md) | Array, Hash Table |
 | 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Math |
 
-### Medium (0)
+### Medium (1)
 
-_No problems solved yet._
+| # | Title | Topics |
+| --- | --- | --- |
+| 0015 | [3Sum](0015-3sum/README.md) | Array, Two Pointers, Sorting |
 
 ### Hard (0)
 
@@ -37,11 +40,12 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (1)</summary>
+<summary>Array (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
+| 0015 | [3Sum](0015-3sum/README.md) | Medium |
 
 </details>
 
@@ -63,15 +67,34 @@ _No problems solved yet._
 
 </details>
 
+<details>
+<summary>Sorting (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0015 | [3Sum](0015-3sum/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Two Pointers (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0015 | [3Sum](0015-3sum/README.md) | Medium |
+
+</details>
+
 ## By Language
 
 <details>
-<summary>python3 (2)</summary>
+<summary>python3 (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
 | 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Easy |
+| 0015 | [3Sum](0015-3sum/README.md) | Medium |
 
 </details>
 
@@ -79,5 +102,6 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0015 | [3Sum](0015-3sum/README.md) | Medium | 2026-07-14 |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy | 2026-07-13 |
 | 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Easy | 2026-07-13 |

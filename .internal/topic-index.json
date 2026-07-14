@@ -1,7 +1,8 @@
 {
   "Array": [
     "leetcode/0001-two-sum",
-    "leetcode/0004-median-of-two-sorted-arrays"
+    "leetcode/0004-median-of-two-sorted-arrays",
+    "leetcode/0015-3sum"
   ],
   "Hash Table": [
     "leetcode/0001-two-sum"
@@ -14,5 +15,11 @@
   ],
   "Math": [
     "leetcode/0009-palindrome-number"
+  ],
+  "Two Pointers": [
+    "leetcode/0015-3sum"
+  ],
+  "Sorting": [
+    "leetcode/0015-3sum"
   ]
 }

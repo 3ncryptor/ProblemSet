@@ -2,6 +2,7 @@
   "python3": [
     "leetcode/0001-two-sum",
     "leetcode/0004-median-of-two-sorted-arrays",
-    "leetcode/0009-palindrome-number"
+    "leetcode/0009-palindrome-number",
+    "leetcode/0015-3sum"
   ]
 }
