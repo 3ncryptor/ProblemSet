@@ -37,5 +37,19 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-07-14T04:52:05.384Z"
+  },
+  {
+    "folderId": "leetcode/0003-longest-substring-without-repeating-characters",
+    "frontendId": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "slug": "longest-substring-without-repeating-characters",
+    "difficulty": "Medium",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-07-15T16:58:53.692Z"
   }
 ]

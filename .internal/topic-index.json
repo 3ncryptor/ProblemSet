@@ -5,7 +5,8 @@
     "leetcode/0015-3sum"
   ],
   "Hash Table": [
-    "leetcode/0001-two-sum"
+    "leetcode/0001-two-sum",
+    "leetcode/0003-longest-substring-without-repeating-characters"
   ],
   "Binary Search": [
     "leetcode/0004-median-of-two-sorted-arrays"
@@ -21,5 +22,11 @@
   ],
   "Sorting": [
     "leetcode/0015-3sum"
+  ],
+  "String": [
+    "leetcode/0003-longest-substring-without-repeating-characters"
+  ],
+  "Sliding Window": [
+    "leetcode/0003-longest-substring-without-repeating-characters"
   ]
 }
