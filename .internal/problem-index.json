@@ -64,5 +64,18 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-07-22T18:04:24.279Z"
+  },
+  {
+    "folderId": "leetcode/0027-remove-element",
+    "frontendId": "27",
+    "title": "Remove Element",
+    "slug": "remove-element",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-07-22T19:14:39.594Z"
   }
 ]

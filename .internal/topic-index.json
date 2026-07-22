@@ -2,7 +2,8 @@
   "Array": [
     "leetcode/0001-two-sum",
     "leetcode/0004-median-of-two-sorted-arrays",
-    "leetcode/0015-3sum"
+    "leetcode/0015-3sum",
+    "leetcode/0027-remove-element"
   ],
   "Hash Table": [
     "leetcode/0001-two-sum",
@@ -19,7 +20,8 @@
     "leetcode/0050-powx-n"
   ],
   "Two Pointers": [
-    "leetcode/0015-3sum"
+    "leetcode/0015-3sum",
+    "leetcode/0027-remove-element"
   ],
   "Sorting": [
     "leetcode/0015-3sum"

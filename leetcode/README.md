@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**5** problems solved — 2 Easy · 3 Medium · 0 Hard
+**6** problems solved — 3 Easy · 3 Medium · 0 Hard
 
 ## Contents
 
@@ -18,16 +18,18 @@
 | 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/README.md) | Medium | Hash Table, String, Sliding Window |
 | 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Easy | Math |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium | Array, Two Pointers, Sorting |
+| 0027 | [Remove Element](0027-remove-element/README.md) | Easy | Array, Two Pointers |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium | Math, Recursion |
 
 ## By Difficulty
 
-### Easy (2)
+### Easy (3)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Array, Hash Table |
 | 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Math |
+| 0027 | [Remove Element](0027-remove-element/README.md) | Array, Two Pointers |
 
 ### Medium (3)
 
@@ -44,12 +46,13 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (2)</summary>
+<summary>Array (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium |
+| 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 
 </details>
 
@@ -110,18 +113,19 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Two Pointers (1)</summary>
+<summary>Two Pointers (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium |
+| 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 
 </details>
 
 ## By Language
 
 <details>
-<summary>python3 (5)</summary>
+<summary>python3 (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -129,6 +133,7 @@ _No problems solved yet._
 | 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/README.md) | Medium |
 | 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Easy |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium |
+| 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium |
 
 </details>
@@ -137,6 +142,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0027 | [Remove Element](0027-remove-element/README.md) | Easy | 2026-07-22 |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium | 2026-07-22 |
 | 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/README.md) | Medium | 2026-07-15 |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium | 2026-07-14 |
