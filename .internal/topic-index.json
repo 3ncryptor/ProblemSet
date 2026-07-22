@@ -15,7 +15,8 @@
     "leetcode/0004-median-of-two-sorted-arrays"
   ],
   "Math": [
-    "leetcode/0009-palindrome-number"
+    "leetcode/0009-palindrome-number",
+    "leetcode/0050-powx-n"
   ],
   "Two Pointers": [
     "leetcode/0015-3sum"
@@ -28,5 +29,8 @@
   ],
   "Sliding Window": [
     "leetcode/0003-longest-substring-without-repeating-characters"
+  ],
+  "Recursion": [
+    "leetcode/0050-powx-n"
   ]
 }

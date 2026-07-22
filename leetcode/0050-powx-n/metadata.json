@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "50",
+  "frontendId": "50",
+  "title": "Pow(x, n)",
+  "slug": "powx-n",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Recursion"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "1 ms",
+  "memory": "19.5 MB",
+  "submissionId": "2077519375",
+  "acceptedAt": "2026-07-22T18:04:24.279Z",
+  "updatedAt": "2026-07-22T18:04:26.181Z",
+  "url": "https://leetcode.com/problems/powx-n/",
+  "version": 1
+}

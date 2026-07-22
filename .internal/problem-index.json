@@ -51,5 +51,18 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-07-15T16:58:53.692Z"
+  },
+  {
+    "folderId": "leetcode/0050-powx-n",
+    "frontendId": "50",
+    "title": "Pow(x, n)",
+    "slug": "powx-n",
+    "difficulty": "Medium",
+    "topics": [
+      "Math",
+      "Recursion"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-07-22T18:04:24.279Z"
   }
 ]
