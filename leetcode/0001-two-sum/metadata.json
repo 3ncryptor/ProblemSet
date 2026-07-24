@@ -12,10 +12,10 @@
   "companyTags": [],
   "language": "python3",
   "runtime": "0 ms",
-  "memory": "20.7 MB",
-  "submissionId": "2066490445",
-  "acceptedAt": "2026-07-13T17:47:47.570Z",
-  "updatedAt": "2026-07-13T17:47:49.283Z",
+  "memory": "20.5 MB",
+  "submissionId": "2079971504",
+  "acceptedAt": "2026-07-24T18:29:25.111Z",
+  "updatedAt": "2026-07-24T18:29:26.286Z",
   "url": "https://leetcode.com/problems/two-sum/",
-  "version": 2
+  "version": 3
 }

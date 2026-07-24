@@ -1,5 +1,5 @@
 # Runtime: 0 ms
-# Memory: 20.7 MB
+# Memory: 20.5 MB
 
 # from typing import List
 

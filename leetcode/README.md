@@ -142,9 +142,9 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0001 | [Two Sum](0001-two-sum/README.md) | Easy | 2026-07-24 |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | 2026-07-22 |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium | 2026-07-22 |
 | 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/README.md) | Medium | 2026-07-15 |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium | 2026-07-14 |
-| 0001 | [Two Sum](0001-two-sum/README.md) | Easy | 2026-07-13 |
 | 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Easy | 2026-07-13 |
