@@ -8,7 +8,7 @@
 | --- | --- |
 | Runtime | 0 ms |
 | Memory | 20.5 MB |
-| Submission Date | 2026-07-24T18:29:25.111Z |
+| Submission Date | 2026-07-24T18:29:43.054Z |
 | Platform | leetcode |
 
 ## Problem Statement
