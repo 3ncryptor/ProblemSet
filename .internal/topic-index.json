@@ -3,7 +3,8 @@
     "leetcode/0001-two-sum",
     "leetcode/0004-median-of-two-sorted-arrays",
     "leetcode/0015-3sum",
-    "leetcode/0027-remove-element"
+    "leetcode/0027-remove-element",
+    "leetcode/0011-container-with-most-water"
   ],
   "Hash Table": [
     "leetcode/0001-two-sum",
@@ -21,7 +22,8 @@
   ],
   "Two Pointers": [
     "leetcode/0015-3sum",
-    "leetcode/0027-remove-element"
+    "leetcode/0027-remove-element",
+    "leetcode/0011-container-with-most-water"
   ],
   "Sorting": [
     "leetcode/0015-3sum"
@@ -34,5 +36,8 @@
   ],
   "Recursion": [
     "leetcode/0050-powx-n"
+  ],
+  "Greedy": [
+    "leetcode/0011-container-with-most-water"
   ]
 }

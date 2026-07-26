@@ -77,5 +77,19 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-07-22T19:14:39.594Z"
+  },
+  {
+    "folderId": "leetcode/0011-container-with-most-water",
+    "frontendId": "11",
+    "title": "Container With Most Water",
+    "slug": "container-with-most-water",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-07-26T18:07:37.347Z"
   }
 ]

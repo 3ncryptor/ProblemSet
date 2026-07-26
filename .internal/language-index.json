@@ -6,6 +6,7 @@
     "leetcode/0015-3sum",
     "leetcode/0003-longest-substring-without-repeating-characters",
     "leetcode/0050-powx-n",
-    "leetcode/0027-remove-element"
+    "leetcode/0027-remove-element",
+    "leetcode/0011-container-with-most-water"
   ]
 }
