@@ -4,7 +4,8 @@
     "leetcode/0004-median-of-two-sorted-arrays",
     "leetcode/0015-3sum",
     "leetcode/0027-remove-element",
-    "leetcode/0011-container-with-most-water"
+    "leetcode/0011-container-with-most-water",
+    "leetcode/0039-combination-sum"
   ],
   "Hash Table": [
     "leetcode/0001-two-sum",
@@ -39,5 +40,8 @@
   ],
   "Greedy": [
     "leetcode/0011-container-with-most-water"
+  ],
+  "Backtracking": [
+    "leetcode/0039-combination-sum"
   ]
 }
