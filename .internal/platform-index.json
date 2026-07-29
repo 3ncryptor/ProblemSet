@@ -8,6 +8,7 @@
     "leetcode/0050-powx-n",
     "leetcode/0027-remove-element",
     "leetcode/0011-container-with-most-water",
-    "leetcode/0039-combination-sum"
+    "leetcode/0039-combination-sum",
+    "leetcode/0066-plus-one"
   ]
 }

@@ -5,7 +5,8 @@
     "leetcode/0015-3sum",
     "leetcode/0027-remove-element",
     "leetcode/0011-container-with-most-water",
-    "leetcode/0039-combination-sum"
+    "leetcode/0039-combination-sum",
+    "leetcode/0066-plus-one"
   ],
   "Hash Table": [
     "leetcode/0001-two-sum",
@@ -19,7 +20,8 @@
   ],
   "Math": [
     "leetcode/0009-palindrome-number",
-    "leetcode/0050-powx-n"
+    "leetcode/0050-powx-n",
+    "leetcode/0066-plus-one"
   ],
   "Two Pointers": [
     "leetcode/0015-3sum",
