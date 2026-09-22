@@ -6,9 +6,9 @@
 
 | Field | Value |
 | --- | --- |
-| Runtime | 361 ms |
-| Memory | 25.9 MB |
-| Submission Date | 2026-09-22T03:45:26.041Z |
+| Runtime | 19 ms |
+| Memory | 25.2 MB |
+| Submission Date | 2026-09-22T03:47:21.895Z |
 | Platform | leetcode |
 
 ## Problem Statement
@@ -62,15 +62,15 @@ class Solution:
             result.append(prefix)
             prefix *= i
 
-        print(result)
+        # print(result)
         
         for i in range(len(nums) - 1, -1, -1):
-            print(result[i], nums[i], i, suffix)
+            # print(result[i], nums[i], i, suffix)
             result[i] *= suffix
             suffix *= nums[i]
-            print(result[i], nums[i], i, suffix)
+            # print(result[i], nums[i], i, suffix)
 
-        print(result)
+        # print(result)
         
         return result
 ```

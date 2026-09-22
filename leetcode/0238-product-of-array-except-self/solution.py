@@ -1,5 +1,5 @@
-# Runtime: 361 ms
-# Memory: 25.9 MB
+# Runtime: 19 ms
+# Memory: 25.2 MB
 
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
@@ -11,14 +11,14 @@ class Solution:
             result.append(prefix)
             prefix *= i
 
-        print(result)
+        # print(result)
         
         for i in range(len(nums) - 1, -1, -1):
-            print(result[i], nums[i], i, suffix)
+            # print(result[i], nums[i], i, suffix)
             result[i] *= suffix
             suffix *= nums[i]
-            print(result[i], nums[i], i, suffix)
+            # print(result[i], nums[i], i, suffix)
 
-        print(result)
+        # print(result)
         
         return result

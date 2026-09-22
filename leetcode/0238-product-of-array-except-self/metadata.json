@@ -11,11 +11,11 @@
   ],
   "companyTags": [],
   "language": "python3",
-  "runtime": "361 ms",
-  "memory": "25.9 MB",
-  "submissionId": "2149260845",
-  "acceptedAt": "2026-09-22T03:45:26.041Z",
-  "updatedAt": "2026-09-22T03:45:26.949Z",
+  "runtime": "19 ms",
+  "memory": "25.2 MB",
+  "submissionId": "2149262278",
+  "acceptedAt": "2026-09-22T03:47:21.895Z",
+  "updatedAt": "2026-09-22T03:47:22.501Z",
   "url": "https://leetcode.com/problems/product-of-array-except-self/",
-  "version": 1
+  "version": 2
 }
