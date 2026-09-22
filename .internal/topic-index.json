@@ -22,7 +22,8 @@
   "Math": [
     "leetcode/0009-palindrome-number",
     "leetcode/0050-powx-n",
-    "leetcode/0066-plus-one"
+    "leetcode/0066-plus-one",
+    "leetcode/0258-add-digits"
   ],
   "Two Pointers": [
     "leetcode/0015-3sum",
@@ -49,5 +50,11 @@
   ],
   "Prefix Sum": [
     "leetcode/0238-product-of-array-except-self"
+  ],
+  "Simulation": [
+    "leetcode/0258-add-digits"
+  ],
+  "Number Theory": [
+    "leetcode/0258-add-digits"
   ]
 }

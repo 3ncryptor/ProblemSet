@@ -130,5 +130,19 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-09-22T03:47:21.895Z"
+  },
+  {
+    "folderId": "leetcode/0258-add-digits",
+    "frontendId": "258",
+    "title": "Add Digits",
+    "slug": "add-digits",
+    "difficulty": "Easy",
+    "topics": [
+      "Math",
+      "Simulation",
+      "Number Theory"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-09-22T11:38:41.259Z"
   }
 ]

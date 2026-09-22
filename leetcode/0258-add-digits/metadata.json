@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "258",
+  "frontendId": "258",
+  "title": "Add Digits",
+  "slug": "add-digits",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Simulation",
+    "Number Theory"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "19.3 MB",
+  "submissionId": "2149660540",
+  "acceptedAt": "2026-09-22T11:38:41.259Z",
+  "updatedAt": "2026-09-22T11:38:42.228Z",
+  "url": "https://leetcode.com/problems/add-digits/",
+  "version": 1
+}

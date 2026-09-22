@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**10** problems solved — 4 Easy · 6 Medium · 0 Hard
+**11** problems solved — 5 Easy · 6 Medium · 0 Hard
 
 ## Contents
 
@@ -24,10 +24,11 @@
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium | Math, Recursion |
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy | Array, Math |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | Array, Prefix Sum |
+| 0258 | [Add Digits](0258-add-digits/README.md) | Easy | Math, Simulation, Number Theory |
 
 ## By Difficulty
 
-### Easy (4)
+### Easy (5)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -35,6 +36,7 @@
 | 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Math |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Array, Two Pointers |
 | 0066 | [Plus One](0066-plus-one/README.md) | Array, Math |
+| 0258 | [Add Digits](0258-add-digits/README.md) | Math, Simulation, Number Theory |
 
 ### Medium (6)
 
@@ -97,13 +99,23 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Math (3)</summary>
+<summary>Math (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Easy |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium |
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy |
+| 0258 | [Add Digits](0258-add-digits/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Number Theory (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0258 | [Add Digits](0258-add-digits/README.md) | Easy |
 
 </details>
 
@@ -122,6 +134,15 @@ _No problems solved yet._
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Simulation (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0258 | [Add Digits](0258-add-digits/README.md) | Easy |
 
 </details>
 
@@ -166,7 +187,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (10)</summary>
+<summary>python3 (11)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -180,6 +201,7 @@ _No problems solved yet._
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium |
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
+| 0258 | [Add Digits](0258-add-digits/README.md) | Easy |
 
 </details>
 
@@ -187,6 +209,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0258 | [Add Digits](0258-add-digits/README.md) | Easy | 2026-09-22 |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | 2026-09-22 |
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy | 2026-07-29 |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium | 2026-07-29 |

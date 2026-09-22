@@ -10,6 +10,7 @@
     "leetcode/0011-container-with-most-water",
     "leetcode/0039-combination-sum",
     "leetcode/0066-plus-one",
-    "leetcode/0238-product-of-array-except-self"
+    "leetcode/0238-product-of-array-except-self",
+    "leetcode/0258-add-digits"
   ]
 }
