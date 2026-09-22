@@ -6,7 +6,8 @@
     "leetcode/0027-remove-element",
     "leetcode/0011-container-with-most-water",
     "leetcode/0039-combination-sum",
-    "leetcode/0066-plus-one"
+    "leetcode/0066-plus-one",
+    "leetcode/0238-product-of-array-except-self"
   ],
   "Hash Table": [
     "leetcode/0001-two-sum",
@@ -45,5 +46,8 @@
   ],
   "Backtracking": [
     "leetcode/0039-combination-sum"
+  ],
+  "Prefix Sum": [
+    "leetcode/0238-product-of-array-except-self"
   ]
 }
