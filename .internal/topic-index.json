@@ -7,7 +7,8 @@
     "leetcode/0011-container-with-most-water",
     "leetcode/0039-combination-sum",
     "leetcode/0066-plus-one",
-    "leetcode/0238-product-of-array-except-self"
+    "leetcode/0238-product-of-array-except-self",
+    "leetcode/2798-number-of-employees-who-met-the-target"
   ],
   "Hash Table": [
     "leetcode/0001-two-sum",

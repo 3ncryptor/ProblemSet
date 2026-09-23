@@ -144,5 +144,17 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-09-22T11:38:41.259Z"
+  },
+  {
+    "folderId": "leetcode/2798-number-of-employees-who-met-the-target",
+    "frontendId": "2798",
+    "title": "Number of Employees Who Met the Target",
+    "slug": "number-of-employees-who-met-the-target",
+    "difficulty": "Easy",
+    "topics": [
+      "Array"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-09-23T04:16:45.829Z"
   }
 ]

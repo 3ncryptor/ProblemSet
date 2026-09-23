@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**11** problems solved — 5 Easy · 6 Medium · 0 Hard
+**12** problems solved — 6 Easy · 6 Medium · 0 Hard
 
 ## Contents
 
@@ -25,10 +25,11 @@
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy | Array, Math |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | Array, Prefix Sum |
 | 0258 | [Add Digits](0258-add-digits/README.md) | Easy | Math, Simulation, Number Theory |
+| 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Easy | Array |
 
 ## By Difficulty
 
-### Easy (5)
+### Easy (6)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -37,6 +38,7 @@
 | 0027 | [Remove Element](0027-remove-element/README.md) | Array, Two Pointers |
 | 0066 | [Plus One](0066-plus-one/README.md) | Array, Math |
 | 0258 | [Add Digits](0258-add-digits/README.md) | Math, Simulation, Number Theory |
+| 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Array |
 
 ### Medium (6)
 
@@ -56,7 +58,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (7)</summary>
+<summary>Array (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -67,6 +69,7 @@ _No problems solved yet._
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium |
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
+| 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Easy |
 
 </details>
 
@@ -187,7 +190,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (11)</summary>
+<summary>python3 (12)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -202,6 +205,7 @@ _No problems solved yet._
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
 | 0258 | [Add Digits](0258-add-digits/README.md) | Easy |
+| 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Easy |
 
 </details>
 
@@ -209,6 +213,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Easy | 2026-09-23 |
 | 0258 | [Add Digits](0258-add-digits/README.md) | Easy | 2026-09-22 |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | 2026-09-22 |
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy | 2026-07-29 |
