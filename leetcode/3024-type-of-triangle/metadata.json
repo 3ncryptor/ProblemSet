@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "problemId": "3321",
+  "frontendId": "3024",
+  "title": "Type of Triangle",
+  "slug": "type-of-triangle",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math",
+    "Sorting",
+    "Polygons"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "19.2 MB",
+  "submissionId": "2150422378",
+  "acceptedAt": "2026-09-23T04:26:52.374Z",
+  "updatedAt": "2026-09-23T04:26:53.286Z",
+  "url": "https://leetcode.com/problems/type-of-triangle/",
+  "version": 1
+}

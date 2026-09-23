@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**12** problems solved — 6 Easy · 6 Medium · 0 Hard
+**13** problems solved — 7 Easy · 6 Medium · 0 Hard
 
 ## Contents
 
@@ -26,10 +26,11 @@
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | Array, Prefix Sum |
 | 0258 | [Add Digits](0258-add-digits/README.md) | Easy | Math, Simulation, Number Theory |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Easy | Array |
+| 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Easy | Array, Math, Sorting, Polygons |
 
 ## By Difficulty
 
-### Easy (6)
+### Easy (7)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -39,6 +40,7 @@
 | 0066 | [Plus One](0066-plus-one/README.md) | Array, Math |
 | 0258 | [Add Digits](0258-add-digits/README.md) | Math, Simulation, Number Theory |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Array |
+| 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Array, Math, Sorting, Polygons |
 
 ### Medium (6)
 
@@ -58,7 +60,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (8)</summary>
+<summary>Array (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -70,6 +72,7 @@ _No problems solved yet._
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Easy |
+| 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Easy |
 
 </details>
 
@@ -102,7 +105,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Math (4)</summary>
+<summary>Math (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -110,6 +113,7 @@ _No problems solved yet._
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium |
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy |
 | 0258 | [Add Digits](0258-add-digits/README.md) | Easy |
+| 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Easy |
 
 </details>
 
@@ -119,6 +123,15 @@ _No problems solved yet._
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0258 | [Add Digits](0258-add-digits/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Polygons (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Easy |
 
 </details>
 
@@ -159,11 +172,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (1)</summary>
+<summary>Sorting (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium |
+| 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Easy |
 
 </details>
 
@@ -190,7 +204,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (12)</summary>
+<summary>python3 (13)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -206,6 +220,7 @@ _No problems solved yet._
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
 | 0258 | [Add Digits](0258-add-digits/README.md) | Easy |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Easy |
+| 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Easy |
 
 </details>
 
@@ -213,6 +228,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Easy | 2026-09-23 |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Easy | 2026-09-23 |
 | 0258 | [Add Digits](0258-add-digits/README.md) | Easy | 2026-09-22 |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | 2026-09-22 |

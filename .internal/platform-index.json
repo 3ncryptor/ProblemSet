@@ -12,6 +12,7 @@
     "leetcode/0066-plus-one",
     "leetcode/0238-product-of-array-except-self",
     "leetcode/0258-add-digits",
-    "leetcode/2798-number-of-employees-who-met-the-target"
+    "leetcode/2798-number-of-employees-who-met-the-target",
+    "leetcode/3024-type-of-triangle"
   ]
 }

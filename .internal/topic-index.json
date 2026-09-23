@@ -8,7 +8,8 @@
     "leetcode/0039-combination-sum",
     "leetcode/0066-plus-one",
     "leetcode/0238-product-of-array-except-self",
-    "leetcode/2798-number-of-employees-who-met-the-target"
+    "leetcode/2798-number-of-employees-who-met-the-target",
+    "leetcode/3024-type-of-triangle"
   ],
   "Hash Table": [
     "leetcode/0001-two-sum",
@@ -24,7 +25,8 @@
     "leetcode/0009-palindrome-number",
     "leetcode/0050-powx-n",
     "leetcode/0066-plus-one",
-    "leetcode/0258-add-digits"
+    "leetcode/0258-add-digits",
+    "leetcode/3024-type-of-triangle"
   ],
   "Two Pointers": [
     "leetcode/0015-3sum",
@@ -32,7 +34,8 @@
     "leetcode/0011-container-with-most-water"
   ],
   "Sorting": [
-    "leetcode/0015-3sum"
+    "leetcode/0015-3sum",
+    "leetcode/3024-type-of-triangle"
   ],
   "String": [
     "leetcode/0003-longest-substring-without-repeating-characters"
@@ -57,5 +60,8 @@
   ],
   "Number Theory": [
     "leetcode/0258-add-digits"
+  ],
+  "Polygons": [
+    "leetcode/3024-type-of-triangle"
   ]
 }
