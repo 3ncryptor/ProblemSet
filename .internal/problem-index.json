@@ -171,5 +171,17 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-09-23T04:26:52.374Z"
+  },
+  {
+    "folderId": "leetcode/1550-three-consecutive-odds",
+    "frontendId": "1550",
+    "title": "Three Consecutive Odds",
+    "slug": "three-consecutive-odds",
+    "difficulty": "Easy",
+    "topics": [
+      "Array"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-09-23T04:48:55.669Z"
   }
 ]

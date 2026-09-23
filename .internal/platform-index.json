@@ -13,6 +13,7 @@
     "leetcode/0238-product-of-array-except-self",
     "leetcode/0258-add-digits",
     "leetcode/2798-number-of-employees-who-met-the-target",
-    "leetcode/3024-type-of-triangle"
+    "leetcode/3024-type-of-triangle",
+    "leetcode/1550-three-consecutive-odds"
   ]
 }

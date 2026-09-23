@@ -1,0 +1,20 @@
+{
+  "platform": "leetcode",
+  "problemId": "1293",
+  "frontendId": "1550",
+  "title": "Three Consecutive Odds",
+  "slug": "three-consecutive-odds",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "4 ms",
+  "memory": "19.2 MB",
+  "submissionId": "2150445251",
+  "acceptedAt": "2026-09-23T04:48:55.669Z",
+  "updatedAt": "2026-09-23T04:48:56.610Z",
+  "url": "https://leetcode.com/problems/three-consecutive-odds/",
+  "version": 1
+}
