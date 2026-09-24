@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "1950",
+  "frontendId": "1822",
+  "title": "Sign of the Product of an Array",
+  "slug": "sign-of-the-product-of-an-array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "19.2 MB",
+  "submissionId": "2151531556",
+  "acceptedAt": "2026-09-24T04:01:06.992Z",
+  "updatedAt": "2026-09-24T04:01:07.896Z",
+  "url": "https://leetcode.com/problems/sign-of-the-product-of-an-array/",
+  "version": 1
+}

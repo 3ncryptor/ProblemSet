@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**14** problems solved — 8 Easy · 6 Medium · 0 Hard
+**15** problems solved — 9 Easy · 6 Medium · 0 Hard
 
 ## Contents
 
@@ -26,12 +26,13 @@
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | Array, Prefix Sum |
 | 0258 | [Add Digits](0258-add-digits/README.md) | Easy | Math, Simulation, Number Theory |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy | Array |
+| 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy | Array, Math |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Easy | Array |
 | 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Easy | Array, Math, Sorting, Polygons |
 
 ## By Difficulty
 
-### Easy (8)
+### Easy (9)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -41,6 +42,7 @@
 | 0066 | [Plus One](0066-plus-one/README.md) | Array, Math |
 | 0258 | [Add Digits](0258-add-digits/README.md) | Math, Simulation, Number Theory |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Array |
+| 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Array, Math |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Array |
 | 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Array, Math, Sorting, Polygons |
 
@@ -62,7 +64,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (10)</summary>
+<summary>Array (11)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -74,6 +76,7 @@ _No problems solved yet._
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy |
+| 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Easy |
 | 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Easy |
 
@@ -108,7 +111,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Math (5)</summary>
+<summary>Math (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -116,6 +119,7 @@ _No problems solved yet._
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium |
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy |
 | 0258 | [Add Digits](0258-add-digits/README.md) | Easy |
+| 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy |
 | 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Easy |
 
 </details>
@@ -207,7 +211,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (14)</summary>
+<summary>python3 (15)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -223,6 +227,7 @@ _No problems solved yet._
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
 | 0258 | [Add Digits](0258-add-digits/README.md) | Easy |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy |
+| 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Easy |
 | 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Easy |
 
@@ -232,6 +237,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy | 2026-09-24 |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy | 2026-09-23 |
 | 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Easy | 2026-09-23 |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Easy | 2026-09-23 |
