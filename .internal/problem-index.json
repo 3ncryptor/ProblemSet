@@ -209,5 +209,18 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-09-24T04:20:25.000Z"
+  },
+  {
+    "folderId": "leetcode/2535-difference-between-element-sum-and-digit-sum-of-an-array",
+    "frontendId": "2535",
+    "title": "Difference Between Element Sum and Digit Sum of an Array",
+    "slug": "difference-between-element-sum-and-digit-sum-of-an-array",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Math"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-09-24T09:07:38.489Z"
   }
 ]

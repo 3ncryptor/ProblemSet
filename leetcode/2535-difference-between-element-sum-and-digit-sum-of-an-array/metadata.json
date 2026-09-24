@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "2624",
+  "frontendId": "2535",
+  "title": "Difference Between Element Sum and Digit Sum of an Array",
+  "slug": "difference-between-element-sum-and-digit-sum-of-an-array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "11 ms",
+  "memory": "19.5 MB",
+  "submissionId": "2151807397",
+  "acceptedAt": "2026-09-24T09:07:38.489Z",
+  "updatedAt": "2026-09-24T09:07:39.415Z",
+  "url": "https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/",
+  "version": 1
+}

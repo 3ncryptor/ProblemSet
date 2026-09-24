@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**16** problems solved — 10 Easy · 6 Medium · 0 Hard
+**17** problems solved — 11 Easy · 6 Medium · 0 Hard
 
 ## Contents
 
@@ -27,13 +27,14 @@
 | 0258 | [Add Digits](0258-add-digits/README.md) | Easy | Math, Simulation, Number Theory |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy | Array |
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy | Array, Math |
+| 2535 | [Difference Between Element Sum and Digit Sum of an Array](2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Easy | Array, Math |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Easy | Array |
 | 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Easy | Array, Math, Sorting, Polygons |
 | 3232 | [Find if Digit Game Can Be Won](3232-find-if-digit-game-can-be-won/README.md) | Easy | Array, Math |
 
 ## By Difficulty
 
-### Easy (10)
+### Easy (11)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -44,6 +45,7 @@
 | 0258 | [Add Digits](0258-add-digits/README.md) | Math, Simulation, Number Theory |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Array |
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Array, Math |
+| 2535 | [Difference Between Element Sum and Digit Sum of an Array](2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Array, Math |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Array |
 | 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Array, Math, Sorting, Polygons |
 | 3232 | [Find if Digit Game Can Be Won](3232-find-if-digit-game-can-be-won/README.md) | Array, Math |
@@ -66,7 +68,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (12)</summary>
+<summary>Array (13)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -79,6 +81,7 @@ _No problems solved yet._
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy |
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy |
+| 2535 | [Difference Between Element Sum and Digit Sum of an Array](2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Easy |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Easy |
 | 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Easy |
 | 3232 | [Find if Digit Game Can Be Won](3232-find-if-digit-game-can-be-won/README.md) | Easy |
@@ -114,7 +117,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Math (7)</summary>
+<summary>Math (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -123,6 +126,7 @@ _No problems solved yet._
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy |
 | 0258 | [Add Digits](0258-add-digits/README.md) | Easy |
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy |
+| 2535 | [Difference Between Element Sum and Digit Sum of an Array](2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Easy |
 | 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Easy |
 | 3232 | [Find if Digit Game Can Be Won](3232-find-if-digit-game-can-be-won/README.md) | Easy |
 
@@ -215,7 +219,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (16)</summary>
+<summary>python3 (17)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -232,6 +236,7 @@ _No problems solved yet._
 | 0258 | [Add Digits](0258-add-digits/README.md) | Easy |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy |
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy |
+| 2535 | [Difference Between Element Sum and Digit Sum of an Array](2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Easy |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Easy |
 | 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Easy |
 | 3232 | [Find if Digit Game Can Be Won](3232-find-if-digit-game-can-be-won/README.md) | Easy |
@@ -242,6 +247,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 2535 | [Difference Between Element Sum and Digit Sum of an Array](2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Easy | 2026-09-24 |
 | 3232 | [Find if Digit Game Can Be Won](3232-find-if-digit-game-can-be-won/README.md) | Easy | 2026-09-24 |
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy | 2026-09-24 |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy | 2026-09-23 |
@@ -256,4 +262,3 @@ _No problems solved yet._
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | 2026-07-22 |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium | 2026-07-22 |
 | 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/README.md) | Medium | 2026-07-15 |
-| 0015 | [3Sum](0015-3sum/README.md) | Medium | 2026-07-14 |
