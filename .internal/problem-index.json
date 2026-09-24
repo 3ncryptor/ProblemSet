@@ -196,5 +196,18 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-09-24T04:01:06.992Z"
+  },
+  {
+    "folderId": "leetcode/3232-find-if-digit-game-can-be-won",
+    "frontendId": "3232",
+    "title": "Find if Digit Game Can Be Won",
+    "slug": "find-if-digit-game-can-be-won",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Math"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-09-24T04:20:25.000Z"
   }
 ]

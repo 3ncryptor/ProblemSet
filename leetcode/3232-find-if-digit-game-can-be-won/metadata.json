@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "3515",
+  "frontendId": "3232",
+  "title": "Find if Digit Game Can Be Won",
+  "slug": "find-if-digit-game-can-be-won",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "19.2 MB",
+  "submissionId": "2151548370",
+  "acceptedAt": "2026-09-24T04:20:25.000Z",
+  "updatedAt": "2026-09-24T04:20:25.947Z",
+  "url": "https://leetcode.com/problems/find-if-digit-game-can-be-won/",
+  "version": 1
+}

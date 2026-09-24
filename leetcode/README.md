@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**15** problems solved — 9 Easy · 6 Medium · 0 Hard
+**16** problems solved — 10 Easy · 6 Medium · 0 Hard
 
 ## Contents
 
@@ -29,10 +29,11 @@
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy | Array, Math |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Easy | Array |
 | 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Easy | Array, Math, Sorting, Polygons |
+| 3232 | [Find if Digit Game Can Be Won](3232-find-if-digit-game-can-be-won/README.md) | Easy | Array, Math |
 
 ## By Difficulty
 
-### Easy (9)
+### Easy (10)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -45,6 +46,7 @@
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Array, Math |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Array |
 | 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Array, Math, Sorting, Polygons |
+| 3232 | [Find if Digit Game Can Be Won](3232-find-if-digit-game-can-be-won/README.md) | Array, Math |
 
 ### Medium (6)
 
@@ -64,7 +66,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (11)</summary>
+<summary>Array (12)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -79,6 +81,7 @@ _No problems solved yet._
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Easy |
 | 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Easy |
+| 3232 | [Find if Digit Game Can Be Won](3232-find-if-digit-game-can-be-won/README.md) | Easy |
 
 </details>
 
@@ -111,7 +114,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Math (6)</summary>
+<summary>Math (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -121,6 +124,7 @@ _No problems solved yet._
 | 0258 | [Add Digits](0258-add-digits/README.md) | Easy |
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy |
 | 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Easy |
+| 3232 | [Find if Digit Game Can Be Won](3232-find-if-digit-game-can-be-won/README.md) | Easy |
 
 </details>
 
@@ -211,7 +215,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (15)</summary>
+<summary>python3 (16)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -230,6 +234,7 @@ _No problems solved yet._
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Easy |
 | 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Easy |
+| 3232 | [Find if Digit Game Can Be Won](3232-find-if-digit-game-can-be-won/README.md) | Easy |
 
 </details>
 
@@ -237,6 +242,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 3232 | [Find if Digit Game Can Be Won](3232-find-if-digit-game-can-be-won/README.md) | Easy | 2026-09-24 |
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy | 2026-09-24 |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy | 2026-09-23 |
 | 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Easy | 2026-09-23 |
@@ -251,4 +257,3 @@ _No problems solved yet._
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium | 2026-07-22 |
 | 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/README.md) | Medium | 2026-07-15 |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium | 2026-07-14 |
-| 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Easy | 2026-07-13 |

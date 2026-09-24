@@ -15,6 +15,7 @@
     "leetcode/2798-number-of-employees-who-met-the-target",
     "leetcode/3024-type-of-triangle",
     "leetcode/1550-three-consecutive-odds",
-    "leetcode/1822-sign-of-the-product-of-an-array"
+    "leetcode/1822-sign-of-the-product-of-an-array",
+    "leetcode/3232-find-if-digit-game-can-be-won"
   ]
 }

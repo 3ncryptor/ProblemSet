@@ -11,7 +11,8 @@
     "leetcode/2798-number-of-employees-who-met-the-target",
     "leetcode/3024-type-of-triangle",
     "leetcode/1550-three-consecutive-odds",
-    "leetcode/1822-sign-of-the-product-of-an-array"
+    "leetcode/1822-sign-of-the-product-of-an-array",
+    "leetcode/3232-find-if-digit-game-can-be-won"
   ],
   "Hash Table": [
     "leetcode/0001-two-sum",
@@ -29,7 +30,8 @@
     "leetcode/0066-plus-one",
     "leetcode/0258-add-digits",
     "leetcode/3024-type-of-triangle",
-    "leetcode/1822-sign-of-the-product-of-an-array"
+    "leetcode/1822-sign-of-the-product-of-an-array",
+    "leetcode/3232-find-if-digit-game-can-be-won"
   ],
   "Two Pointers": [
     "leetcode/0015-3sum",
