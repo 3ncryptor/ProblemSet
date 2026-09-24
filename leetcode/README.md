@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**18** problems solved — 12 Easy · 6 Medium · 0 Hard
+**19** problems solved — 13 Easy · 6 Medium · 0 Hard
 
 ## Contents
 
@@ -25,6 +25,7 @@
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy | Array, Math |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | Array, Prefix Sum |
 | 0258 | [Add Digits](0258-add-digits/README.md) | Easy | Math, Simulation, Number Theory |
+| 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy | Hash Table, String, Queue, Counting |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy | Array |
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy | Array, Math |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Easy | Array, Math |
@@ -35,7 +36,7 @@
 
 ## By Difficulty
 
-### Easy (12)
+### Easy (13)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -44,6 +45,7 @@
 | 0027 | [Remove Element](0027-remove-element/README.md) | Array, Two Pointers |
 | 0066 | [Plus One](0066-plus-one/README.md) | Array, Math |
 | 0258 | [Add Digits](0258-add-digits/README.md) | Math, Simulation, Number Theory |
+| 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Hash Table, String, Queue, Counting |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Array |
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Array, Math |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Array, Math |
@@ -101,6 +103,15 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Counting (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy |
+
+</details>
+
+<details>
 <summary>Greedy (1)</summary>
 
 | # | Title | Difficulty |
@@ -110,12 +121,13 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Hash Table (2)</summary>
+<summary>Hash Table (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
 | 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/README.md) | Medium |
+| 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy |
 
 </details>
 
@@ -172,6 +184,15 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Queue (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy |
+
+</details>
+
+<details>
 <summary>Recursion (1)</summary>
 
 | # | Title | Difficulty |
@@ -211,11 +232,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>String (1)</summary>
+<summary>String (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/README.md) | Medium |
+| 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy |
 
 </details>
 
@@ -233,7 +255,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (18)</summary>
+<summary>python3 (19)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -248,6 +270,7 @@ _No problems solved yet._
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
 | 0258 | [Add Digits](0258-add-digits/README.md) | Easy |
+| 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy |
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Easy |
@@ -262,6 +285,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy | 2026-09-24 |
 | 2974 | [Minimum Number Game](2974-minimum-number-game/README.md) | Easy | 2026-09-24 |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Easy | 2026-09-24 |
 | 3232 | [Find if Digit Game Can Be Won](3232-find-if-digit-game-can-be-won/README.md) | Easy | 2026-09-24 |
@@ -276,4 +300,3 @@ _No problems solved yet._
 | 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium | 2026-07-26 |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy | 2026-07-24 |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | 2026-07-22 |
-| 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium | 2026-07-22 |
