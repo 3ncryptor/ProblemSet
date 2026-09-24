@@ -17,6 +17,7 @@
     "leetcode/1550-three-consecutive-odds",
     "leetcode/1822-sign-of-the-product-of-an-array",
     "leetcode/3232-find-if-digit-game-can-be-won",
-    "leetcode/2535-difference-between-element-sum-and-digit-sum-of-an-array"
+    "leetcode/2535-difference-between-element-sum-and-digit-sum-of-an-array",
+    "leetcode/2974-minimum-number-game"
   ]
 }

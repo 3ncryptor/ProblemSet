@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**17** problems solved — 11 Easy · 6 Medium · 0 Hard
+**18** problems solved — 12 Easy · 6 Medium · 0 Hard
 
 ## Contents
 
@@ -29,12 +29,13 @@
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy | Array, Math |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Easy | Array, Math |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Easy | Array |
+| 2974 | [Minimum Number Game](2974-minimum-number-game/README.md) | Easy | Array, Sorting, Heap (Priority Queue), Simulation |
 | 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Easy | Array, Math, Sorting, Polygons |
 | 3232 | [Find if Digit Game Can Be Won](3232-find-if-digit-game-can-be-won/README.md) | Easy | Array, Math |
 
 ## By Difficulty
 
-### Easy (11)
+### Easy (12)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -47,6 +48,7 @@
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Array, Math |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Array, Math |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Array |
+| 2974 | [Minimum Number Game](2974-minimum-number-game/README.md) | Array, Sorting, Heap (Priority Queue), Simulation |
 | 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Array, Math, Sorting, Polygons |
 | 3232 | [Find if Digit Game Can Be Won](3232-find-if-digit-game-can-be-won/README.md) | Array, Math |
 
@@ -68,7 +70,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (13)</summary>
+<summary>Array (14)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -83,6 +85,7 @@ _No problems solved yet._
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Easy |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Easy |
+| 2974 | [Minimum Number Game](2974-minimum-number-game/README.md) | Easy |
 | 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Easy |
 | 3232 | [Find if Digit Game Can Be Won](3232-find-if-digit-game-can-be-won/README.md) | Easy |
 
@@ -113,6 +116,15 @@ _No problems solved yet._
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
 | 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Heap (Priority Queue) (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 2974 | [Minimum Number Game](2974-minimum-number-game/README.md) | Easy |
 
 </details>
 
@@ -169,11 +181,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Simulation (1)</summary>
+<summary>Simulation (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0258 | [Add Digits](0258-add-digits/README.md) | Easy |
+| 2974 | [Minimum Number Game](2974-minimum-number-game/README.md) | Easy |
 
 </details>
 
@@ -187,11 +200,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (2)</summary>
+<summary>Sorting (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium |
+| 2974 | [Minimum Number Game](2974-minimum-number-game/README.md) | Easy |
 | 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Easy |
 
 </details>
@@ -219,7 +233,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (17)</summary>
+<summary>python3 (18)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -238,6 +252,7 @@ _No problems solved yet._
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Easy |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Easy |
+| 2974 | [Minimum Number Game](2974-minimum-number-game/README.md) | Easy |
 | 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Easy |
 | 3232 | [Find if Digit Game Can Be Won](3232-find-if-digit-game-can-be-won/README.md) | Easy |
 
@@ -247,6 +262,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 2974 | [Minimum Number Game](2974-minimum-number-game/README.md) | Easy | 2026-09-24 |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Easy | 2026-09-24 |
 | 3232 | [Find if Digit Game Can Be Won](3232-find-if-digit-game-can-be-won/README.md) | Easy | 2026-09-24 |
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy | 2026-09-24 |
@@ -261,4 +277,3 @@ _No problems solved yet._
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy | 2026-07-24 |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | 2026-07-22 |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium | 2026-07-22 |
-| 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/README.md) | Medium | 2026-07-15 |

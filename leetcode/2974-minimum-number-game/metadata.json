@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "problemId": "3226",
+  "frontendId": "2974",
+  "title": "Minimum Number Game",
+  "slug": "minimum-number-game",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Simulation"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "19.3 MB",
+  "submissionId": "2151815897",
+  "acceptedAt": "2026-09-24T09:16:40.780Z",
+  "updatedAt": "2026-09-24T09:16:41.754Z",
+  "url": "https://leetcode.com/problems/minimum-number-game/",
+  "version": 1
+}

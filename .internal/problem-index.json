@@ -222,5 +222,20 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-09-24T09:07:38.489Z"
+  },
+  {
+    "folderId": "leetcode/2974-minimum-number-game",
+    "frontendId": "2974",
+    "title": "Minimum Number Game",
+    "slug": "minimum-number-game",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Simulation"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-09-24T09:16:40.780Z"
   }
 ]
