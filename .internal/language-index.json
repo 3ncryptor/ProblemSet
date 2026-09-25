@@ -19,6 +19,7 @@
     "leetcode/3232-find-if-digit-game-can-be-won",
     "leetcode/2535-difference-between-element-sum-and-digit-sum-of-an-array",
     "leetcode/2974-minimum-number-game",
-    "leetcode/0387-first-unique-character-in-a-string"
+    "leetcode/0387-first-unique-character-in-a-string",
+    "leetcode/2114-maximum-number-of-words-found-in-sentences"
   ]
 }

@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**19** problems solved — 13 Easy · 6 Medium · 0 Hard
+**20** problems solved — 14 Easy · 6 Medium · 0 Hard
 
 ## Contents
 
@@ -28,6 +28,7 @@
 | 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy | Hash Table, String, Queue, Counting |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy | Array |
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy | Array, Math |
+| 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Easy | Array, String |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Easy | Array, Math |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Easy | Array |
 | 2974 | [Minimum Number Game](2974-minimum-number-game/README.md) | Easy | Array, Sorting, Heap (Priority Queue), Simulation |
@@ -36,7 +37,7 @@
 
 ## By Difficulty
 
-### Easy (13)
+### Easy (14)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -48,6 +49,7 @@
 | 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Hash Table, String, Queue, Counting |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Array |
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Array, Math |
+| 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Array, String |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Array, Math |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Array |
 | 2974 | [Minimum Number Game](2974-minimum-number-game/README.md) | Array, Sorting, Heap (Priority Queue), Simulation |
@@ -72,7 +74,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (14)</summary>
+<summary>Array (15)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -85,6 +87,7 @@ _No problems solved yet._
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy |
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy |
+| 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Easy |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Easy |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Easy |
 | 2974 | [Minimum Number Game](2974-minimum-number-game/README.md) | Easy |
@@ -232,12 +235,13 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>String (2)</summary>
+<summary>String (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/README.md) | Medium |
 | 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy |
+| 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Easy |
 
 </details>
 
@@ -255,7 +259,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (19)</summary>
+<summary>python3 (20)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -273,6 +277,7 @@ _No problems solved yet._
 | 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy |
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy |
+| 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Easy |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Easy |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Easy |
 | 2974 | [Minimum Number Game](2974-minimum-number-game/README.md) | Easy |
@@ -285,6 +290,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Easy | 2026-09-25 |
 | 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy | 2026-09-24 |
 | 2974 | [Minimum Number Game](2974-minimum-number-game/README.md) | Easy | 2026-09-24 |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Easy | 2026-09-24 |
@@ -299,4 +305,3 @@ _No problems solved yet._
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium | 2026-07-29 |
 | 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium | 2026-07-26 |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy | 2026-07-24 |
-| 0027 | [Remove Element](0027-remove-element/README.md) | Easy | 2026-07-22 |

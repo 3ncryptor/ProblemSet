@@ -252,5 +252,18 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-09-24T09:20:54.724Z"
+  },
+  {
+    "folderId": "leetcode/2114-maximum-number-of-words-found-in-sentences",
+    "frontendId": "2114",
+    "title": "Maximum Number of Words Found in Sentences",
+    "slug": "maximum-number-of-words-found-in-sentences",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "String"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-09-25T01:00:57.505Z"
   }
 ]
