@@ -300,5 +300,15 @@
     "topics": [],
     "language": "javascript",
     "acceptedAt": "2026-09-25T19:12:19.835Z"
+  },
+  {
+    "folderId": "leetcode/2620-counter",
+    "frontendId": "2620",
+    "title": "Counter",
+    "slug": "counter",
+    "difficulty": "Easy",
+    "topics": [],
+    "language": "javascript",
+    "acceptedAt": "2026-09-25T19:19:02.789Z"
   }
 ]

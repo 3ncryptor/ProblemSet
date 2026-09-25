@@ -25,6 +25,7 @@
     "leetcode/0657-robot-return-to-origin"
   ],
   "javascript": [
-    "leetcode/2667-create-hello-world-function"
+    "leetcode/2667-create-hello-world-function",
+    "leetcode/2620-counter"
   ]
 }

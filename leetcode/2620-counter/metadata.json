@@ -1,0 +1,18 @@
+{
+  "platform": "leetcode",
+  "problemId": "2732",
+  "frontendId": "2620",
+  "title": "Counter",
+  "slug": "counter",
+  "difficulty": "Easy",
+  "topics": [],
+  "companyTags": [],
+  "language": "javascript",
+  "runtime": "44 ms",
+  "memory": "52.7 MB",
+  "submissionId": "2153319189",
+  "acceptedAt": "2026-09-25T19:19:02.789Z",
+  "updatedAt": "2026-09-25T19:19:03.702Z",
+  "url": "https://leetcode.com/problems/counter/",
+  "version": 1
+}

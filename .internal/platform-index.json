@@ -23,6 +23,7 @@
     "leetcode/2114-maximum-number-of-words-found-in-sentences",
     "leetcode/3019-number-of-changing-keys",
     "leetcode/0657-robot-return-to-origin",
-    "leetcode/2667-create-hello-world-function"
+    "leetcode/2667-create-hello-world-function",
+    "leetcode/2620-counter"
   ]
 }
