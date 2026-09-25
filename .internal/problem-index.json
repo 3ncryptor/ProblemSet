@@ -277,5 +277,18 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-09-25T01:07:25.025Z"
+  },
+  {
+    "folderId": "leetcode/0657-robot-return-to-origin",
+    "frontendId": "657",
+    "title": "Robot Return to Origin",
+    "slug": "robot-return-to-origin",
+    "difficulty": "Easy",
+    "topics": [
+      "String",
+      "Simulation"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-09-25T01:13:33.607Z"
   }
 ]

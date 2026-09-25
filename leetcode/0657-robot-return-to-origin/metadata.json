@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "657",
+  "frontendId": "657",
+  "title": "Robot Return to Origin",
+  "slug": "robot-return-to-origin",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "Simulation"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "19 ms",
+  "memory": "19.2 MB",
+  "submissionId": "2152508860",
+  "acceptedAt": "2026-09-25T01:13:33.607Z",
+  "updatedAt": "2026-09-25T01:13:35.012Z",
+  "url": "https://leetcode.com/problems/robot-return-to-origin/",
+  "version": 1
+}

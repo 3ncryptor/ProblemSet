@@ -52,7 +52,8 @@
     "leetcode/0003-longest-substring-without-repeating-characters",
     "leetcode/0387-first-unique-character-in-a-string",
     "leetcode/2114-maximum-number-of-words-found-in-sentences",
-    "leetcode/3019-number-of-changing-keys"
+    "leetcode/3019-number-of-changing-keys",
+    "leetcode/0657-robot-return-to-origin"
   ],
   "Sliding Window": [
     "leetcode/0003-longest-substring-without-repeating-characters"
@@ -71,7 +72,8 @@
   ],
   "Simulation": [
     "leetcode/0258-add-digits",
-    "leetcode/2974-minimum-number-game"
+    "leetcode/2974-minimum-number-game",
+    "leetcode/0657-robot-return-to-origin"
   ],
   "Number Theory": [
     "leetcode/0258-add-digits"
