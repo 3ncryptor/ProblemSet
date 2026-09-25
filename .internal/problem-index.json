@@ -290,5 +290,15 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-09-25T01:13:33.607Z"
+  },
+  {
+    "folderId": "leetcode/2667-create-hello-world-function",
+    "frontendId": "2667",
+    "title": "Create Hello World Function",
+    "slug": "create-hello-world-function",
+    "difficulty": "Easy",
+    "topics": [],
+    "language": "javascript",
+    "acceptedAt": "2026-09-25T19:12:19.835Z"
   }
 ]

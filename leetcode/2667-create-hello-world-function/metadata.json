@@ -1,0 +1,18 @@
+{
+  "platform": "leetcode",
+  "problemId": "2809",
+  "frontendId": "2667",
+  "title": "Create Hello World Function",
+  "slug": "create-hello-world-function",
+  "difficulty": "Easy",
+  "topics": [],
+  "companyTags": [],
+  "language": "javascript",
+  "runtime": "37 ms",
+  "memory": "52.7 MB",
+  "submissionId": "2153315070",
+  "acceptedAt": "2026-09-25T19:12:19.835Z",
+  "updatedAt": "2026-09-25T19:12:20.832Z",
+  "url": "https://leetcode.com/problems/create-hello-world-function/",
+  "version": 1
+}

@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**22** problems solved — 16 Easy · 6 Medium · 0 Hard
+**23** problems solved — 17 Easy · 6 Medium · 0 Hard
 
 ## Contents
 
@@ -31,6 +31,7 @@
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy | Array, Math |
 | 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Easy | Array, String |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Easy | Array, Math |
+| 2667 | [Create Hello World Function](2667-create-hello-world-function/README.md) | Easy |  |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Easy | Array |
 | 2974 | [Minimum Number Game](2974-minimum-number-game/README.md) | Easy | Array, Sorting, Heap (Priority Queue), Simulation |
 | 3019 | [Number of Changing Keys](3019-number-of-changing-keys/README.md) | Easy | String |
@@ -39,7 +40,7 @@
 
 ## By Difficulty
 
-### Easy (16)
+### Easy (17)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -54,6 +55,7 @@
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Array, Math |
 | 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Array, String |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Array, Math |
+| 2667 | [Create Hello World Function](2667-create-hello-world-function/README.md) |  |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Array |
 | 2974 | [Minimum Number Game](2974-minimum-number-game/README.md) | Array, Sorting, Heap (Priority Queue), Simulation |
 | 3019 | [Number of Changing Keys](3019-number-of-changing-keys/README.md) | String |
@@ -266,6 +268,15 @@ _No problems solved yet._
 ## By Language
 
 <details>
+<summary>javascript (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 2667 | [Create Hello World Function](2667-create-hello-world-function/README.md) | Easy |
+
+</details>
+
+<details>
 <summary>python3 (22)</summary>
 
 | # | Title | Difficulty |
@@ -299,6 +310,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 2667 | [Create Hello World Function](2667-create-hello-world-function/README.md) | Easy | 2026-09-25 |
 | 0657 | [Robot Return to Origin](0657-robot-return-to-origin/README.md) | Easy | 2026-09-25 |
 | 3019 | [Number of Changing Keys](3019-number-of-changing-keys/README.md) | Easy | 2026-09-25 |
 | 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Easy | 2026-09-25 |
@@ -313,4 +325,3 @@ _No problems solved yet._
 | 0258 | [Add Digits](0258-add-digits/README.md) | Easy | 2026-09-22 |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | 2026-09-22 |
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy | 2026-07-29 |
-| 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium | 2026-07-29 |
