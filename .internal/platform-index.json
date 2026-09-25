@@ -20,6 +20,7 @@
     "leetcode/2535-difference-between-element-sum-and-digit-sum-of-an-array",
     "leetcode/2974-minimum-number-game",
     "leetcode/0387-first-unique-character-in-a-string",
-    "leetcode/2114-maximum-number-of-words-found-in-sentences"
+    "leetcode/2114-maximum-number-of-words-found-in-sentences",
+    "leetcode/3019-number-of-changing-keys"
   ]
 }

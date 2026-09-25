@@ -51,7 +51,8 @@
   "String": [
     "leetcode/0003-longest-substring-without-repeating-characters",
     "leetcode/0387-first-unique-character-in-a-string",
-    "leetcode/2114-maximum-number-of-words-found-in-sentences"
+    "leetcode/2114-maximum-number-of-words-found-in-sentences",
+    "leetcode/3019-number-of-changing-keys"
   ],
   "Sliding Window": [
     "leetcode/0003-longest-substring-without-repeating-characters"

@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**20** problems solved — 14 Easy · 6 Medium · 0 Hard
+**21** problems solved — 15 Easy · 6 Medium · 0 Hard
 
 ## Contents
 
@@ -32,12 +32,13 @@
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Easy | Array, Math |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Easy | Array |
 | 2974 | [Minimum Number Game](2974-minimum-number-game/README.md) | Easy | Array, Sorting, Heap (Priority Queue), Simulation |
+| 3019 | [Number of Changing Keys](3019-number-of-changing-keys/README.md) | Easy | String |
 | 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Easy | Array, Math, Sorting, Polygons |
 | 3232 | [Find if Digit Game Can Be Won](3232-find-if-digit-game-can-be-won/README.md) | Easy | Array, Math |
 
 ## By Difficulty
 
-### Easy (14)
+### Easy (15)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -53,6 +54,7 @@
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Array, Math |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Array |
 | 2974 | [Minimum Number Game](2974-minimum-number-game/README.md) | Array, Sorting, Heap (Priority Queue), Simulation |
+| 3019 | [Number of Changing Keys](3019-number-of-changing-keys/README.md) | String |
 | 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Array, Math, Sorting, Polygons |
 | 3232 | [Find if Digit Game Can Be Won](3232-find-if-digit-game-can-be-won/README.md) | Array, Math |
 
@@ -235,13 +237,14 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>String (3)</summary>
+<summary>String (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/README.md) | Medium |
 | 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy |
 | 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Easy |
+| 3019 | [Number of Changing Keys](3019-number-of-changing-keys/README.md) | Easy |
 
 </details>
 
@@ -259,7 +262,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (20)</summary>
+<summary>python3 (21)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -281,6 +284,7 @@ _No problems solved yet._
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Easy |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Easy |
 | 2974 | [Minimum Number Game](2974-minimum-number-game/README.md) | Easy |
+| 3019 | [Number of Changing Keys](3019-number-of-changing-keys/README.md) | Easy |
 | 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Easy |
 | 3232 | [Find if Digit Game Can Be Won](3232-find-if-digit-game-can-be-won/README.md) | Easy |
 
@@ -290,6 +294,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 3019 | [Number of Changing Keys](3019-number-of-changing-keys/README.md) | Easy | 2026-09-25 |
 | 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Easy | 2026-09-25 |
 | 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy | 2026-09-24 |
 | 2974 | [Minimum Number Game](2974-minimum-number-game/README.md) | Easy | 2026-09-24 |
@@ -304,4 +309,3 @@ _No problems solved yet._
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy | 2026-07-29 |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium | 2026-07-29 |
 | 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium | 2026-07-26 |
-| 0001 | [Two Sum](0001-two-sum/README.md) | Easy | 2026-07-24 |
