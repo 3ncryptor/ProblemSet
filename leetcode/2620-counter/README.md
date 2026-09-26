@@ -6,9 +6,9 @@
 
 | Field | Value |
 | --- | --- |
-| Runtime | 44 ms |
-| Memory | 52.7 MB |
-| Submission Date | 2026-09-25T19:19:02.789Z |
+| Runtime | 47 ms |
+| Memory | 52.2 MB |
+| Submission Date | 2026-09-26T19:27:52.347Z |
 | Platform | leetcode |
 
 ## Problem Statement
