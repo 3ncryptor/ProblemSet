@@ -6,9 +6,9 @@
 
 | Field | Value |
 | --- | --- |
-| Runtime | 7 ms |
-| Memory | 19.4 MB |
-| Submission Date | 2026-07-15T16:58:53.692Z |
+| Runtime | 210 ms |
+| Memory | 20 MB |
+| Submission Date | 2026-09-27T18:53:33.046Z |
 | Platform | leetcode |
 
 ## Problem Statement
@@ -65,7 +65,7 @@ Notice that the answer must be a substring, &quot;pwke&quot; is a subsequence an
 
 ## Constraints
 
-- <code>0 &lt;= s.length &lt;= 5 * 10<sup>4</sup></code>
+- <code>0 &lt;= s.length &lt;= 10<sup>5</sup></code>
 - <code>s</code> consists of English letters, digits, symbols and spaces.
 
 ## Solution

@@ -12,11 +12,11 @@
   ],
   "companyTags": [],
   "language": "python3",
-  "runtime": "7 ms",
-  "memory": "19.4 MB",
-  "submissionId": "2068903779",
-  "acceptedAt": "2026-07-15T16:58:53.692Z",
-  "updatedAt": "2026-07-15T16:58:55.721Z",
+  "runtime": "210 ms",
+  "memory": "20 MB",
+  "submissionId": "2155297440",
+  "acceptedAt": "2026-09-27T18:53:33.046Z",
+  "updatedAt": "2026-09-27T18:53:33.963Z",
   "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
-  "version": 1
+  "version": 2
 }
