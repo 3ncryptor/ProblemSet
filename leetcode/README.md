@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**24** problems solved — 18 Easy · 6 Medium · 0 Hard
+**25** problems solved — 18 Easy · 7 Medium · 0 Hard
 
 ## Contents
 
@@ -23,6 +23,7 @@
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium | Array, Backtracking |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium | Math, Recursion |
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy | Array, Math |
+| 0078 | [Subsets](0078-subsets/README.md) | Medium | Array, Backtracking, Bit Manipulation |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | Array, Prefix Sum |
 | 0258 | [Add Digits](0258-add-digits/README.md) | Easy | Math, Simulation, Number Theory |
 | 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy | Hash Table, String, Queue, Counting |
@@ -64,7 +65,7 @@
 | 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Array, Math, Sorting, Polygons |
 | 3232 | [Find if Digit Game Can Be Won](3232-find-if-digit-game-can-be-won/README.md) | Array, Math |
 
-### Medium (6)
+### Medium (7)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -73,6 +74,7 @@
 | 0015 | [3Sum](0015-3sum/README.md) | Array, Two Pointers, Sorting |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Array, Backtracking |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Math, Recursion |
+| 0078 | [Subsets](0078-subsets/README.md) | Array, Backtracking, Bit Manipulation |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Array, Prefix Sum |
 
 ### Hard (0)
@@ -82,7 +84,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (15)</summary>
+<summary>Array (16)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -92,6 +94,7 @@ _No problems solved yet._
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium |
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy |
+| 0078 | [Subsets](0078-subsets/README.md) | Medium |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy |
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy |
@@ -105,11 +108,21 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Backtracking (1)</summary>
+<summary>Backtracking (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium |
+| 0078 | [Subsets](0078-subsets/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Bit Manipulation (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0078 | [Subsets](0078-subsets/README.md) | Medium |
 
 </details>
 
@@ -280,7 +293,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>python3 (22)</summary>
+<summary>python3 (23)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -293,6 +306,7 @@ _No problems solved yet._
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium |
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy |
+| 0078 | [Subsets](0078-subsets/README.md) | Medium |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
 | 0258 | [Add Digits](0258-add-digits/README.md) | Easy |
 | 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy |
@@ -313,6 +327,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0078 | [Subsets](0078-subsets/README.md) | Medium | 2026-09-28 |
 | 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/README.md) | Medium | 2026-09-27 |
 | 2620 | [Counter](2620-counter/README.md) | Easy | 2026-09-26 |
 | 2667 | [Create Hello World Function](2667-create-hello-world-function/README.md) | Easy | 2026-09-25 |
@@ -327,4 +342,3 @@ _No problems solved yet._
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy | 2026-09-23 |
 | 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Easy | 2026-09-23 |
 | 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Easy | 2026-09-23 |
-| 0258 | [Add Digits](0258-add-digits/README.md) | Easy | 2026-09-22 |

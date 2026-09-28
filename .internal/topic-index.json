@@ -15,7 +15,8 @@
     "leetcode/3232-find-if-digit-game-can-be-won",
     "leetcode/2535-difference-between-element-sum-and-digit-sum-of-an-array",
     "leetcode/2974-minimum-number-game",
-    "leetcode/2114-maximum-number-of-words-found-in-sentences"
+    "leetcode/2114-maximum-number-of-words-found-in-sentences",
+    "leetcode/0078-subsets"
   ],
   "Hash Table": [
     "leetcode/0001-two-sum",
@@ -65,7 +66,8 @@
     "leetcode/0011-container-with-most-water"
   ],
   "Backtracking": [
-    "leetcode/0039-combination-sum"
+    "leetcode/0039-combination-sum",
+    "leetcode/0078-subsets"
   ],
   "Prefix Sum": [
     "leetcode/0238-product-of-array-except-self"
@@ -89,5 +91,8 @@
   ],
   "Counting": [
     "leetcode/0387-first-unique-character-in-a-string"
+  ],
+  "Bit Manipulation": [
+    "leetcode/0078-subsets"
   ]
 }
