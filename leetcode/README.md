@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**25** problems solved — 18 Easy · 7 Medium · 0 Hard
+**26** problems solved — 19 Easy · 7 Medium · 0 Hard
 
 ## Contents
 
@@ -28,6 +28,7 @@
 | 0258 | [Add Digits](0258-add-digits/README.md) | Easy | Math, Simulation, Number Theory |
 | 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy | Hash Table, String, Queue, Counting |
 | 0657 | [Robot Return to Origin](0657-robot-return-to-origin/README.md) | Easy | String, Simulation |
+| 0724 | [Find Pivot Index](0724-find-pivot-index/README.md) | Easy | Array, Prefix Sum |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy | Array |
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy | Array, Math |
 | 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Easy | Array, String |
@@ -42,7 +43,7 @@
 
 ## By Difficulty
 
-### Easy (18)
+### Easy (19)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -53,6 +54,7 @@
 | 0258 | [Add Digits](0258-add-digits/README.md) | Math, Simulation, Number Theory |
 | 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Hash Table, String, Queue, Counting |
 | 0657 | [Robot Return to Origin](0657-robot-return-to-origin/README.md) | String, Simulation |
+| 0724 | [Find Pivot Index](0724-find-pivot-index/README.md) | Array, Prefix Sum |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Array |
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Array, Math |
 | 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Array, String |
@@ -84,7 +86,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (16)</summary>
+<summary>Array (17)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -96,6 +98,7 @@ _No problems solved yet._
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
+| 0724 | [Find Pivot Index](0724-find-pivot-index/README.md) | Easy |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy |
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy |
 | 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Easy |
@@ -199,11 +202,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Prefix Sum (1)</summary>
+<summary>Prefix Sum (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
+| 0724 | [Find Pivot Index](0724-find-pivot-index/README.md) | Easy |
 
 </details>
 
@@ -293,7 +297,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>python3 (23)</summary>
+<summary>python3 (24)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -311,6 +315,7 @@ _No problems solved yet._
 | 0258 | [Add Digits](0258-add-digits/README.md) | Easy |
 | 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy |
 | 0657 | [Robot Return to Origin](0657-robot-return-to-origin/README.md) | Easy |
+| 0724 | [Find Pivot Index](0724-find-pivot-index/README.md) | Easy |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy |
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy |
 | 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Easy |
@@ -327,6 +332,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0724 | [Find Pivot Index](0724-find-pivot-index/README.md) | Easy | 2026-09-29 |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium | 2026-09-28 |
 | 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/README.md) | Medium | 2026-09-27 |
 | 2620 | [Counter](2620-counter/README.md) | Easy | 2026-09-26 |
@@ -341,4 +347,3 @@ _No problems solved yet._
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy | 2026-09-24 |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy | 2026-09-23 |
 | 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Easy | 2026-09-23 |
-| 2798 | [Number of Employees Who Met the Target](2798-number-of-employees-who-met-the-target/README.md) | Easy | 2026-09-23 |

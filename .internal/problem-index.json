@@ -324,5 +324,18 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-09-28T18:59:26.084Z"
+  },
+  {
+    "folderId": "leetcode/0724-find-pivot-index",
+    "frontendId": "724",
+    "title": "Find Pivot Index",
+    "slug": "find-pivot-index",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-09-29T18:43:36.387Z"
   }
 ]
