@@ -332,6 +332,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0001 | [Two Sum](0001-two-sum/README.md) | Easy | 2026-10-06 |
 | 0724 | [Find Pivot Index](0724-find-pivot-index/README.md) | Easy | 2026-09-29 |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium | 2026-09-28 |
 | 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/README.md) | Medium | 2026-09-27 |
@@ -346,4 +347,3 @@ _No problems solved yet._
 | 3232 | [Find if Digit Game Can Be Won](3232-find-if-digit-game-can-be-won/README.md) | Easy | 2026-09-24 |
 | 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy | 2026-09-24 |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy | 2026-09-23 |
-| 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Easy | 2026-09-23 |

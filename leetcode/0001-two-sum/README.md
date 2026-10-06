@@ -8,12 +8,12 @@
 | --- | --- |
 | Runtime | 0 ms |
 | Memory | 20.5 MB |
-| Submission Date | 2026-07-24T18:29:43.054Z |
+| Submission Date | 2026-10-06T18:17:20.569Z |
 | Platform | leetcode |
 
 ## Problem Statement
 
-<p>Given an array of integers <code>nums</code>&nbsp;and an integer <code>target</code>, return <em>indices of the two numbers such that they add up to <code>target</code></em>.</p>
+<p>You are given an array of integers <code>nums</code>&nbsp;and an integer <code>target</code>, return <em>indices of the two numbers such that they add up to <code>target</code></em>.</p>
 
 <p>You may assume that each input would have <strong><em>exactly</em> one solution</strong>, and you may not use the <em>same</em> element twice.</p>
 
@@ -75,7 +75,6 @@
 
 ```py
 # from typing import List
-
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         seen = {}
@@ -85,7 +84,6 @@ class Solution:
                 return [seen[complement], idx]
             seen[val] = idx
         return []
-
 ```
 
 [View on LeetCode](https://leetcode.com/problems/two-sum/)
