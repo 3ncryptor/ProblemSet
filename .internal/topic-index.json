@@ -96,5 +96,8 @@
   ],
   "Bit Manipulation": [
     "leetcode/0078-subsets"
+  ],
+  "Database": [
+    "leetcode/0175-combine-two-tables"
   ]
 }

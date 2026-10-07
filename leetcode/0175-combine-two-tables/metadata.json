@@ -1,0 +1,20 @@
+{
+  "platform": "leetcode",
+  "problemId": "175",
+  "frontendId": "175",
+  "title": "Combine Two Tables",
+  "slug": "combine-two-tables",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "companyTags": [],
+  "language": "mysql",
+  "runtime": "455 ms",
+  "memory": "0B",
+  "submissionId": "2165330600",
+  "acceptedAt": "2026-10-07T13:41:28.284Z",
+  "updatedAt": "2026-10-07T13:41:29.959Z",
+  "url": "https://leetcode.com/problems/combine-two-tables/",
+  "version": 1
+}

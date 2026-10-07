@@ -26,6 +26,7 @@
     "leetcode/2667-create-hello-world-function",
     "leetcode/2620-counter",
     "leetcode/0078-subsets",
-    "leetcode/0724-find-pivot-index"
+    "leetcode/0724-find-pivot-index",
+    "leetcode/0175-combine-two-tables"
   ]
 }

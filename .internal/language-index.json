@@ -29,5 +29,8 @@
   "javascript": [
     "leetcode/2667-create-hello-world-function",
     "leetcode/2620-counter"
+  ],
+  "mysql": [
+    "leetcode/0175-combine-two-tables"
   ]
 }

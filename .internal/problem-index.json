@@ -337,5 +337,17 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-09-29T18:43:36.387Z"
+  },
+  {
+    "folderId": "leetcode/0175-combine-two-tables",
+    "frontendId": "175",
+    "title": "Combine Two Tables",
+    "slug": "combine-two-tables",
+    "difficulty": "Easy",
+    "topics": [
+      "Database"
+    ],
+    "language": "mysql",
+    "acceptedAt": "2026-10-07T13:41:28.284Z"
   }
 ]
