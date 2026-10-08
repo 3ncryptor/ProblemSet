@@ -361,5 +361,17 @@
     ],
     "language": "mysql",
     "acceptedAt": "2026-10-08T08:46:28.252Z"
+  },
+  {
+    "folderId": "leetcode/0182-duplicate-emails",
+    "frontendId": "182",
+    "title": "Duplicate Emails",
+    "slug": "duplicate-emails",
+    "difficulty": "Easy",
+    "topics": [
+      "Database"
+    ],
+    "language": "mysql",
+    "acceptedAt": "2026-10-08T08:51:44.318Z"
   }
 ]

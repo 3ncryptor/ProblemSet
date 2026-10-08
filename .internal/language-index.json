@@ -32,6 +32,7 @@
   ],
   "mysql": [
     "leetcode/0175-combine-two-tables",
-    "leetcode/0180-consecutive-numbers"
+    "leetcode/0180-consecutive-numbers",
+    "leetcode/0182-duplicate-emails"
   ]
 }
