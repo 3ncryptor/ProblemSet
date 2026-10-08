@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**27** problems solved — 20 Easy · 7 Medium · 0 Hard
+**28** problems solved — 20 Easy · 8 Medium · 0 Hard
 
 ## Contents
 
@@ -25,6 +25,7 @@
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy | Array, Math |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium | Array, Backtracking, Bit Manipulation |
 | 0175 | [Combine Two Tables](0175-combine-two-tables/README.md) | Easy | Database |
+| 0180 | [Consecutive Numbers](0180-consecutive-numbers/README.md) | Medium | Database |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | Array, Prefix Sum |
 | 0258 | [Add Digits](0258-add-digits/README.md) | Easy | Math, Simulation, Number Theory |
 | 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy | Hash Table, String, Queue, Counting |
@@ -69,7 +70,7 @@
 | 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Array, Math, Sorting, Polygons |
 | 3232 | [Find if Digit Game Can Be Won](3232-find-if-digit-game-can-be-won/README.md) | Array, Math |
 
-### Medium (7)
+### Medium (8)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -79,6 +80,7 @@
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Array, Backtracking |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Math, Recursion |
 | 0078 | [Subsets](0078-subsets/README.md) | Array, Backtracking, Bit Manipulation |
+| 0180 | [Consecutive Numbers](0180-consecutive-numbers/README.md) | Database |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Array, Prefix Sum |
 
 ### Hard (0)
@@ -141,11 +143,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Database (1)</summary>
+<summary>Database (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0175 | [Combine Two Tables](0175-combine-two-tables/README.md) | Easy |
+| 0180 | [Consecutive Numbers](0180-consecutive-numbers/README.md) | Medium |
 
 </details>
 
@@ -308,11 +311,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>mysql (1)</summary>
+<summary>mysql (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0175 | [Combine Two Tables](0175-combine-two-tables/README.md) | Easy |
+| 0180 | [Consecutive Numbers](0180-consecutive-numbers/README.md) | Medium |
 
 </details>
 
@@ -352,6 +356,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0180 | [Consecutive Numbers](0180-consecutive-numbers/README.md) | Medium | 2026-10-08 |
 | 0175 | [Combine Two Tables](0175-combine-two-tables/README.md) | Easy | 2026-10-07 |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy | 2026-10-06 |
 | 0724 | [Find Pivot Index](0724-find-pivot-index/README.md) | Easy | 2026-09-29 |
@@ -366,4 +371,3 @@ _No problems solved yet._
 | 2974 | [Minimum Number Game](2974-minimum-number-game/README.md) | Easy | 2026-09-24 |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Easy | 2026-09-24 |
 | 3232 | [Find if Digit Game Can Be Won](3232-find-if-digit-game-can-be-won/README.md) | Easy | 2026-09-24 |
-| 1822 | [Sign of the Product of an Array](1822-sign-of-the-product-of-an-array/README.md) | Easy | 2026-09-24 |

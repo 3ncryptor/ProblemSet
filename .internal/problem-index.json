@@ -349,5 +349,17 @@
     ],
     "language": "mysql",
     "acceptedAt": "2026-10-07T13:41:28.284Z"
+  },
+  {
+    "folderId": "leetcode/0180-consecutive-numbers",
+    "frontendId": "180",
+    "title": "Consecutive Numbers",
+    "slug": "consecutive-numbers",
+    "difficulty": "Medium",
+    "topics": [
+      "Database"
+    ],
+    "language": "mysql",
+    "acceptedAt": "2026-10-08T08:46:28.252Z"
   }
 ]

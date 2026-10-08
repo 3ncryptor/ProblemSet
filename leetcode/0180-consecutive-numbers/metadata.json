@@ -1,0 +1,20 @@
+{
+  "platform": "leetcode",
+  "problemId": "180",
+  "frontendId": "180",
+  "title": "Consecutive Numbers",
+  "slug": "consecutive-numbers",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "companyTags": [],
+  "language": "mysql",
+  "runtime": "661 ms",
+  "memory": "0B",
+  "submissionId": "2166139266",
+  "acceptedAt": "2026-10-08T08:46:28.252Z",
+  "updatedAt": "2026-10-08T08:46:30.557Z",
+  "url": "https://leetcode.com/problems/consecutive-numbers/",
+  "version": 1
+}

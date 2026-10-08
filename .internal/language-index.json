@@ -31,6 +31,7 @@
     "leetcode/2620-counter"
   ],
   "mysql": [
-    "leetcode/0175-combine-two-tables"
+    "leetcode/0175-combine-two-tables",
+    "leetcode/0180-consecutive-numbers"
   ]
 }

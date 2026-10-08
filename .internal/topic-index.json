@@ -98,6 +98,7 @@
     "leetcode/0078-subsets"
   ],
   "Database": [
-    "leetcode/0175-combine-two-tables"
+    "leetcode/0175-combine-two-tables",
+    "leetcode/0180-consecutive-numbers"
   ]
 }
