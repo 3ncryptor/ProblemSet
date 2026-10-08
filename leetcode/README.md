@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**29** problems solved — 21 Easy · 8 Medium · 0 Hard
+**30** problems solved — 22 Easy · 8 Medium · 0 Hard
 
 ## Contents
 
@@ -27,6 +27,7 @@
 | 0175 | [Combine Two Tables](0175-combine-two-tables/README.md) | Easy | Database |
 | 0180 | [Consecutive Numbers](0180-consecutive-numbers/README.md) | Medium | Database |
 | 0182 | [Duplicate Emails](0182-duplicate-emails/README.md) | Easy | Database |
+| 0183 | [Customers Who Never Order](0183-customers-who-never-order/README.md) | Easy | Database |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | Array, Prefix Sum |
 | 0258 | [Add Digits](0258-add-digits/README.md) | Easy | Math, Simulation, Number Theory |
 | 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy | Hash Table, String, Queue, Counting |
@@ -46,7 +47,7 @@
 
 ## By Difficulty
 
-### Easy (21)
+### Easy (22)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -56,6 +57,7 @@
 | 0066 | [Plus One](0066-plus-one/README.md) | Array, Math |
 | 0175 | [Combine Two Tables](0175-combine-two-tables/README.md) | Database |
 | 0182 | [Duplicate Emails](0182-duplicate-emails/README.md) | Database |
+| 0183 | [Customers Who Never Order](0183-customers-who-never-order/README.md) | Database |
 | 0258 | [Add Digits](0258-add-digits/README.md) | Math, Simulation, Number Theory |
 | 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Hash Table, String, Queue, Counting |
 | 0657 | [Robot Return to Origin](0657-robot-return-to-origin/README.md) | String, Simulation |
@@ -145,13 +147,14 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Database (3)</summary>
+<summary>Database (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0175 | [Combine Two Tables](0175-combine-two-tables/README.md) | Easy |
 | 0180 | [Consecutive Numbers](0180-consecutive-numbers/README.md) | Medium |
 | 0182 | [Duplicate Emails](0182-duplicate-emails/README.md) | Easy |
+| 0183 | [Customers Who Never Order](0183-customers-who-never-order/README.md) | Easy |
 
 </details>
 
@@ -314,13 +317,14 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>mysql (3)</summary>
+<summary>mysql (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0175 | [Combine Two Tables](0175-combine-two-tables/README.md) | Easy |
 | 0180 | [Consecutive Numbers](0180-consecutive-numbers/README.md) | Medium |
 | 0182 | [Duplicate Emails](0182-duplicate-emails/README.md) | Easy |
+| 0183 | [Customers Who Never Order](0183-customers-who-never-order/README.md) | Easy |
 
 </details>
 
@@ -360,6 +364,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0183 | [Customers Who Never Order](0183-customers-who-never-order/README.md) | Easy | 2026-10-08 |
 | 0182 | [Duplicate Emails](0182-duplicate-emails/README.md) | Easy | 2026-10-08 |
 | 0180 | [Consecutive Numbers](0180-consecutive-numbers/README.md) | Medium | 2026-10-08 |
 | 0175 | [Combine Two Tables](0175-combine-two-tables/README.md) | Easy | 2026-10-07 |
@@ -374,4 +379,3 @@ _No problems solved yet._
 | 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Easy | 2026-09-25 |
 | 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy | 2026-09-24 |
 | 2974 | [Minimum Number Game](2974-minimum-number-game/README.md) | Easy | 2026-09-24 |
-| 2535 | [Difference Between Element Sum and Digit Sum of an Array](2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Easy | 2026-09-24 |

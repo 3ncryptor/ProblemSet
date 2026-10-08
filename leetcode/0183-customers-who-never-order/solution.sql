@@ -1,0 +1,9 @@
+-- Runtime: 583 ms
+-- Memory: 0B
+
+SELECT name AS Customers
+FROM Customers
+WHERE id NOT IN (
+    SELECT customerId
+    FROM Orders
+);

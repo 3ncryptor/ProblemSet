@@ -373,5 +373,17 @@
     ],
     "language": "mysql",
     "acceptedAt": "2026-10-08T08:51:44.318Z"
+  },
+  {
+    "folderId": "leetcode/0183-customers-who-never-order",
+    "frontendId": "183",
+    "title": "Customers Who Never Order",
+    "slug": "customers-who-never-order",
+    "difficulty": "Easy",
+    "topics": [
+      "Database"
+    ],
+    "language": "mysql",
+    "acceptedAt": "2026-10-08T08:58:58.301Z"
   }
 ]
