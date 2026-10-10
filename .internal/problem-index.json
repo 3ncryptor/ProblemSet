@@ -385,5 +385,17 @@
     ],
     "language": "mysql",
     "acceptedAt": "2026-10-08T08:58:58.301Z"
+  },
+  {
+    "folderId": "leetcode/0177-nth-highest-salary",
+    "frontendId": "177",
+    "title": "Nth Highest Salary",
+    "slug": "nth-highest-salary",
+    "difficulty": "Medium",
+    "topics": [
+      "Database"
+    ],
+    "language": "mysql",
+    "acceptedAt": "2026-10-10T11:42:50.885Z"
   }
 ]

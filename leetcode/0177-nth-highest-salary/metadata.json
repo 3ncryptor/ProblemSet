@@ -1,0 +1,20 @@
+{
+  "platform": "leetcode",
+  "problemId": "177",
+  "frontendId": "177",
+  "title": "Nth Highest Salary",
+  "slug": "nth-highest-salary",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "companyTags": [],
+  "language": "mysql",
+  "runtime": "410 ms",
+  "memory": "0B",
+  "submissionId": "2168104404",
+  "acceptedAt": "2026-10-10T11:42:50.885Z",
+  "updatedAt": "2026-10-10T11:42:52.881Z",
+  "url": "https://leetcode.com/problems/nth-highest-salary/",
+  "version": 1
+}

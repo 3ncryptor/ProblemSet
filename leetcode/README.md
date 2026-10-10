@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**30** problems solved — 22 Easy · 8 Medium · 0 Hard
+**31** problems solved — 22 Easy · 9 Medium · 0 Hard
 
 ## Contents
 
@@ -25,6 +25,7 @@
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy | Array, Math |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium | Array, Backtracking, Bit Manipulation |
 | 0175 | [Combine Two Tables](0175-combine-two-tables/README.md) | Easy | Database |
+| 0177 | [Nth Highest Salary](0177-nth-highest-salary/README.md) | Medium | Database |
 | 0180 | [Consecutive Numbers](0180-consecutive-numbers/README.md) | Medium | Database |
 | 0182 | [Duplicate Emails](0182-duplicate-emails/README.md) | Easy | Database |
 | 0183 | [Customers Who Never Order](0183-customers-who-never-order/README.md) | Easy | Database |
@@ -74,7 +75,7 @@
 | 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Array, Math, Sorting, Polygons |
 | 3232 | [Find if Digit Game Can Be Won](3232-find-if-digit-game-can-be-won/README.md) | Array, Math |
 
-### Medium (8)
+### Medium (9)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -84,6 +85,7 @@
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Array, Backtracking |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Math, Recursion |
 | 0078 | [Subsets](0078-subsets/README.md) | Array, Backtracking, Bit Manipulation |
+| 0177 | [Nth Highest Salary](0177-nth-highest-salary/README.md) | Database |
 | 0180 | [Consecutive Numbers](0180-consecutive-numbers/README.md) | Database |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Array, Prefix Sum |
 
@@ -147,11 +149,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Database (4)</summary>
+<summary>Database (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0175 | [Combine Two Tables](0175-combine-two-tables/README.md) | Easy |
+| 0177 | [Nth Highest Salary](0177-nth-highest-salary/README.md) | Medium |
 | 0180 | [Consecutive Numbers](0180-consecutive-numbers/README.md) | Medium |
 | 0182 | [Duplicate Emails](0182-duplicate-emails/README.md) | Easy |
 | 0183 | [Customers Who Never Order](0183-customers-who-never-order/README.md) | Easy |
@@ -317,11 +320,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>mysql (4)</summary>
+<summary>mysql (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0175 | [Combine Two Tables](0175-combine-two-tables/README.md) | Easy |
+| 0177 | [Nth Highest Salary](0177-nth-highest-salary/README.md) | Medium |
 | 0180 | [Consecutive Numbers](0180-consecutive-numbers/README.md) | Medium |
 | 0182 | [Duplicate Emails](0182-duplicate-emails/README.md) | Easy |
 | 0183 | [Customers Who Never Order](0183-customers-who-never-order/README.md) | Easy |
@@ -364,6 +368,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0177 | [Nth Highest Salary](0177-nth-highest-salary/README.md) | Medium | 2026-10-10 |
 | 0183 | [Customers Who Never Order](0183-customers-who-never-order/README.md) | Easy | 2026-10-08 |
 | 0182 | [Duplicate Emails](0182-duplicate-emails/README.md) | Easy | 2026-10-08 |
 | 0180 | [Consecutive Numbers](0180-consecutive-numbers/README.md) | Medium | 2026-10-08 |
@@ -378,4 +383,3 @@ _No problems solved yet._
 | 3019 | [Number of Changing Keys](3019-number-of-changing-keys/README.md) | Easy | 2026-09-25 |
 | 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Easy | 2026-09-25 |
 | 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy | 2026-09-24 |
-| 2974 | [Minimum Number Game](2974-minimum-number-game/README.md) | Easy | 2026-09-24 |
