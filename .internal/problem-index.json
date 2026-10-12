@@ -409,5 +409,17 @@
     ],
     "language": "mysql",
     "acceptedAt": "2026-10-11T16:56:32.497Z"
+  },
+  {
+    "folderId": "leetcode/0196-delete-duplicate-emails",
+    "frontendId": "196",
+    "title": "Delete Duplicate Emails",
+    "slug": "delete-duplicate-emails",
+    "difficulty": "Easy",
+    "topics": [
+      "Database"
+    ],
+    "language": "mysql",
+    "acceptedAt": "2026-10-12T15:04:58.528Z"
   }
 ]
