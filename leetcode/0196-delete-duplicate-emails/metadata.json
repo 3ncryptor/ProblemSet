@@ -10,11 +10,11 @@
   ],
   "companyTags": [],
   "language": "mysql",
-  "runtime": "1418 ms",
+  "runtime": "862 ms",
   "memory": "0B",
-  "submissionId": "2170296592",
-  "acceptedAt": "2026-10-12T15:04:58.528Z",
-  "updatedAt": "2026-10-12T15:05:00.923Z",
+  "submissionId": "2170297482",
+  "acceptedAt": "2026-10-12T15:05:57.001Z",
+  "updatedAt": "2026-10-12T15:06:02.843Z",
   "url": "https://leetcode.com/problems/delete-duplicate-emails/",
-  "version": 1
+  "version": 2
 }

@@ -1,4 +1,4 @@
--- Runtime: 1418 ms
+-- Runtime: 862 ms
 -- Memory: 0B
 
 delete p1
