@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**33** problems solved — 23 Easy · 10 Medium · 0 Hard
+**34** problems solved — 23 Easy · 11 Medium · 0 Hard
 
 ## Contents
 
@@ -30,6 +30,7 @@
 | 0180 | [Consecutive Numbers](0180-consecutive-numbers/README.md) | Medium | Database |
 | 0182 | [Duplicate Emails](0182-duplicate-emails/README.md) | Easy | Database |
 | 0183 | [Customers Who Never Order](0183-customers-who-never-order/README.md) | Easy | Database |
+| 0184 | [Department Highest Salary](0184-department-highest-salary/README.md) | Medium | Database |
 | 0196 | [Delete Duplicate Emails](0196-delete-duplicate-emails/README.md) | Easy | Database |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | Array, Prefix Sum |
 | 0258 | [Add Digits](0258-add-digits/README.md) | Easy | Math, Simulation, Number Theory |
@@ -78,7 +79,7 @@
 | 3024 | [Type of Triangle](3024-type-of-triangle/README.md) | Array, Math, Sorting, Polygons |
 | 3232 | [Find if Digit Game Can Be Won](3232-find-if-digit-game-can-be-won/README.md) | Array, Math |
 
-### Medium (10)
+### Medium (11)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -91,6 +92,7 @@
 | 0176 | [Second Highest Salary](0176-second-highest-salary/README.md) | Database |
 | 0177 | [Nth Highest Salary](0177-nth-highest-salary/README.md) | Database |
 | 0180 | [Consecutive Numbers](0180-consecutive-numbers/README.md) | Database |
+| 0184 | [Department Highest Salary](0184-department-highest-salary/README.md) | Database |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Array, Prefix Sum |
 
 ### Hard (0)
@@ -153,7 +155,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Database (7)</summary>
+<summary>Database (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -163,6 +165,7 @@ _No problems solved yet._
 | 0180 | [Consecutive Numbers](0180-consecutive-numbers/README.md) | Medium |
 | 0182 | [Duplicate Emails](0182-duplicate-emails/README.md) | Easy |
 | 0183 | [Customers Who Never Order](0183-customers-who-never-order/README.md) | Easy |
+| 0184 | [Department Highest Salary](0184-department-highest-salary/README.md) | Medium |
 | 0196 | [Delete Duplicate Emails](0196-delete-duplicate-emails/README.md) | Easy |
 
 </details>
@@ -326,7 +329,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>mysql (7)</summary>
+<summary>mysql (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -336,6 +339,7 @@ _No problems solved yet._
 | 0180 | [Consecutive Numbers](0180-consecutive-numbers/README.md) | Medium |
 | 0182 | [Duplicate Emails](0182-duplicate-emails/README.md) | Easy |
 | 0183 | [Customers Who Never Order](0183-customers-who-never-order/README.md) | Easy |
+| 0184 | [Department Highest Salary](0184-department-highest-salary/README.md) | Medium |
 | 0196 | [Delete Duplicate Emails](0196-delete-duplicate-emails/README.md) | Easy |
 
 </details>
@@ -376,6 +380,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0184 | [Department Highest Salary](0184-department-highest-salary/README.md) | Medium | 2026-10-13 |
 | 0196 | [Delete Duplicate Emails](0196-delete-duplicate-emails/README.md) | Easy | 2026-10-12 |
 | 0176 | [Second Highest Salary](0176-second-highest-salary/README.md) | Medium | 2026-10-11 |
 | 0177 | [Nth Highest Salary](0177-nth-highest-salary/README.md) | Medium | 2026-10-10 |
@@ -390,4 +395,3 @@ _No problems solved yet._
 | 2620 | [Counter](2620-counter/README.md) | Easy | 2026-09-26 |
 | 2667 | [Create Hello World Function](2667-create-hello-world-function/README.md) | Easy | 2026-09-25 |
 | 0657 | [Robot Return to Origin](0657-robot-return-to-origin/README.md) | Easy | 2026-09-25 |
-| 3019 | [Number of Changing Keys](3019-number-of-changing-keys/README.md) | Easy | 2026-09-25 |

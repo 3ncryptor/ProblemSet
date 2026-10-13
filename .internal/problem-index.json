@@ -421,5 +421,17 @@
     ],
     "language": "mysql",
     "acceptedAt": "2026-10-12T15:05:57.001Z"
+  },
+  {
+    "folderId": "leetcode/0184-department-highest-salary",
+    "frontendId": "184",
+    "title": "Department Highest Salary",
+    "slug": "department-highest-salary",
+    "difficulty": "Medium",
+    "topics": [
+      "Database"
+    ],
+    "language": "mysql",
+    "acceptedAt": "2026-10-13T14:01:21.086Z"
   }
 ]

@@ -1,0 +1,20 @@
+{
+  "platform": "leetcode",
+  "problemId": "184",
+  "frontendId": "184",
+  "title": "Department Highest Salary",
+  "slug": "department-highest-salary",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "companyTags": [],
+  "language": "mysql",
+  "runtime": "1200 ms",
+  "memory": "0B",
+  "submissionId": "2171235740",
+  "acceptedAt": "2026-10-13T14:01:21.086Z",
+  "updatedAt": "2026-10-13T14:01:22.283Z",
+  "url": "https://leetcode.com/problems/department-highest-salary/",
+  "version": 1
+}
