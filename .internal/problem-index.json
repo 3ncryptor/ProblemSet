@@ -433,5 +433,19 @@
     ],
     "language": "mysql",
     "acceptedAt": "2026-10-13T14:01:21.086Z"
+  },
+  {
+    "folderId": "leetcode/0004-median-of-two-sorted-arrays",
+    "frontendId": "4",
+    "title": "Median of Two Sorted Arrays",
+    "slug": "median-of-two-sorted-arrays",
+    "difficulty": "Hard",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-14T16:23:16.355Z"
   }
 ]

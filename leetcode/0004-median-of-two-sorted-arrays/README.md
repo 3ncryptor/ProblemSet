@@ -7,8 +7,8 @@
 | Field | Value |
 | --- | --- |
 | Runtime | 0 ms |
-| Memory | 19.6 MB |
-| Submission Date | 2026-07-13T08:10:56.851Z |
+| Memory | 19.5 MB |
+| Submission Date | 2026-10-14T16:23:16.355Z |
 | Platform | leetcode |
 
 ## Problem Statement
@@ -63,15 +63,17 @@
 
 ```py
 class Solution:
-    def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
+    def findMedianSortedArrays(self, nums1: list[int], nums2: list[int]) -> float:
         nums1.extend(nums2)
         nums1.sort()
+
         length = len(nums1)
-        if length % 2 == 1:
-            return nums1[length // 2]
+        mid = length // 2
+
+        if length % 2 != 0:
+            return float(nums1[mid])
         else:
-            mid1, mid2 = nums1[length // 2 - 1], nums1[length // 2]
-            return (mid1 + mid2) / 2.0
+            return (nums1[mid - 1] + nums1[mid]) / 2.0
 ```
 
 [View on LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/)

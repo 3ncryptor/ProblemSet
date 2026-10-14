@@ -13,10 +13,10 @@
   "companyTags": [],
   "language": "python3",
   "runtime": "0 ms",
-  "memory": "19.6 MB",
-  "submissionId": "2065861304",
-  "acceptedAt": "2026-07-13T08:10:56.851Z",
-  "updatedAt": "2026-07-13T08:11:02.453Z",
+  "memory": "19.5 MB",
+  "submissionId": "2172304489",
+  "acceptedAt": "2026-10-14T16:23:16.355Z",
+  "updatedAt": "2026-10-14T16:23:17.557Z",
   "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
-  "version": 1
+  "version": 2
 }

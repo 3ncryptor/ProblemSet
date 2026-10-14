@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**34** problems solved — 23 Easy · 11 Medium · 0 Hard
+**35** problems solved — 23 Easy · 11 Medium · 1 Hard
 
 ## Contents
 
@@ -16,6 +16,7 @@
 | --- | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy | Array, Hash Table |
 | 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/README.md) | Medium | Hash Table, String, Sliding Window |
+| 0004 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/README.md) | Hard | Array, Binary Search, Divide and Conquer |
 | 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Easy | Math |
 | 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium | Array, Two Pointers, Greedy |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium | Array, Two Pointers, Sorting |
@@ -95,18 +96,21 @@
 | 0184 | [Department Highest Salary](0184-department-highest-salary/README.md) | Database |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Array, Prefix Sum |
 
-### Hard (0)
+### Hard (1)
 
-_No problems solved yet._
+| # | Title | Topics |
+| --- | --- | --- |
+| 0004 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/README.md) | Array, Binary Search, Divide and Conquer |
 
 ## By Topic
 
 <details>
-<summary>Array (17)</summary>
+<summary>Array (18)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
+| 0004 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/README.md) | Hard |
 | 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
@@ -133,6 +137,15 @@ _No problems solved yet._
 | --- | --- | --- |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Binary Search (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0004 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/README.md) | Hard |
 
 </details>
 
@@ -167,6 +180,15 @@ _No problems solved yet._
 | 0183 | [Customers Who Never Order](0183-customers-who-never-order/README.md) | Easy |
 | 0184 | [Department Highest Salary](0184-department-highest-salary/README.md) | Medium |
 | 0196 | [Delete Duplicate Emails](0196-delete-duplicate-emails/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Divide and Conquer (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0004 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/README.md) | Hard |
 
 </details>
 
@@ -345,12 +367,13 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>python3 (24)</summary>
+<summary>python3 (25)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
 | 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/README.md) | Medium |
+| 0004 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/README.md) | Hard |
 | 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Easy |
 | 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium |
@@ -380,6 +403,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0004 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/README.md) | Hard | 2026-10-14 |
 | 0184 | [Department Highest Salary](0184-department-highest-salary/README.md) | Medium | 2026-10-13 |
 | 0196 | [Delete Duplicate Emails](0196-delete-duplicate-emails/README.md) | Easy | 2026-10-12 |
 | 0176 | [Second Highest Salary](0176-second-highest-salary/README.md) | Medium | 2026-10-11 |
@@ -394,4 +418,3 @@ _No problems solved yet._
 | 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/README.md) | Medium | 2026-09-27 |
 | 2620 | [Counter](2620-counter/README.md) | Easy | 2026-09-26 |
 | 2667 | [Create Hello World Function](2667-create-hello-world-function/README.md) | Easy | 2026-09-25 |
-| 0657 | [Robot Return to Origin](0657-robot-return-to-origin/README.md) | Easy | 2026-09-25 |
