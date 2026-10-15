@@ -447,5 +447,17 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-14T16:23:16.355Z"
+  },
+  {
+    "folderId": "leetcode/0197-rising-temperature",
+    "frontendId": "197",
+    "title": "Rising Temperature",
+    "slug": "rising-temperature",
+    "difficulty": "Easy",
+    "topics": [
+      "Database"
+    ],
+    "language": "mysql",
+    "acceptedAt": "2026-10-15T18:05:45.488Z"
   }
 ]

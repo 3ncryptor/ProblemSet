@@ -38,6 +38,7 @@
     "leetcode/0177-nth-highest-salary",
     "leetcode/0176-second-highest-salary",
     "leetcode/0196-delete-duplicate-emails",
-    "leetcode/0184-department-highest-salary"
+    "leetcode/0184-department-highest-salary",
+    "leetcode/0197-rising-temperature"
   ]
 }
