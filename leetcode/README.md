@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**36** problems solved — 24 Easy · 11 Medium · 1 Hard
+**37** problems solved — 25 Easy · 11 Medium · 1 Hard
 
 ## Contents
 
@@ -37,6 +37,7 @@
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | Array, Prefix Sum |
 | 0258 | [Add Digits](0258-add-digits/README.md) | Easy | Math, Simulation, Number Theory |
 | 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy | Hash Table, String, Queue, Counting |
+| 0577 | [Employee Bonus](0577-employee-bonus/README.md) | Easy | Database |
 | 0657 | [Robot Return to Origin](0657-robot-return-to-origin/README.md) | Easy | String, Simulation |
 | 0724 | [Find Pivot Index](0724-find-pivot-index/README.md) | Easy | Array, Prefix Sum |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy | Array |
@@ -53,7 +54,7 @@
 
 ## By Difficulty
 
-### Easy (24)
+### Easy (25)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -68,6 +69,7 @@
 | 0197 | [Rising Temperature](0197-rising-temperature/README.md) | Database |
 | 0258 | [Add Digits](0258-add-digits/README.md) | Math, Simulation, Number Theory |
 | 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Hash Table, String, Queue, Counting |
+| 0577 | [Employee Bonus](0577-employee-bonus/README.md) | Database |
 | 0657 | [Robot Return to Origin](0657-robot-return-to-origin/README.md) | String, Simulation |
 | 0724 | [Find Pivot Index](0724-find-pivot-index/README.md) | Array, Prefix Sum |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Array |
@@ -170,7 +172,7 @@
 </details>
 
 <details>
-<summary>Database (9)</summary>
+<summary>Database (10)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -183,6 +185,7 @@
 | 0184 | [Department Highest Salary](0184-department-highest-salary/README.md) | Medium |
 | 0196 | [Delete Duplicate Emails](0196-delete-duplicate-emails/README.md) | Easy |
 | 0197 | [Rising Temperature](0197-rising-temperature/README.md) | Easy |
+| 0577 | [Employee Bonus](0577-employee-bonus/README.md) | Easy |
 
 </details>
 
@@ -354,7 +357,7 @@
 </details>
 
 <details>
-<summary>mysql (9)</summary>
+<summary>mysql (10)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -367,6 +370,7 @@
 | 0184 | [Department Highest Salary](0184-department-highest-salary/README.md) | Medium |
 | 0196 | [Delete Duplicate Emails](0196-delete-duplicate-emails/README.md) | Easy |
 | 0197 | [Rising Temperature](0197-rising-temperature/README.md) | Easy |
+| 0577 | [Employee Bonus](0577-employee-bonus/README.md) | Easy |
 
 </details>
 
@@ -407,6 +411,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0577 | [Employee Bonus](0577-employee-bonus/README.md) | Easy | 2026-10-16 |
 | 0197 | [Rising Temperature](0197-rising-temperature/README.md) | Easy | 2026-10-15 |
 | 0004 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/README.md) | Hard | 2026-10-14 |
 | 0184 | [Department Highest Salary](0184-department-highest-salary/README.md) | Medium | 2026-10-13 |
@@ -421,4 +426,3 @@
 | 0724 | [Find Pivot Index](0724-find-pivot-index/README.md) | Easy | 2026-09-29 |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium | 2026-09-28 |
 | 0003 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/README.md) | Medium | 2026-09-27 |
-| 2620 | [Counter](2620-counter/README.md) | Easy | 2026-09-26 |
