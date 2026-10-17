@@ -1,5 +1,5 @@
-# Runtime: 0 ms
-# Memory: 19.5 MB
+# Runtime: 2 ms
+# Memory: 19.6 MB
 
 class Solution:
     def findMedianSortedArrays(self, nums1: list[int], nums2: list[int]) -> float:

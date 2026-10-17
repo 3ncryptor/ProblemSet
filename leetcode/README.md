@@ -411,9 +411,9 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0004 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/README.md) | Hard | 2026-10-17 |
 | 0577 | [Employee Bonus](0577-employee-bonus/README.md) | Easy | 2026-10-16 |
 | 0197 | [Rising Temperature](0197-rising-temperature/README.md) | Easy | 2026-10-15 |
-| 0004 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/README.md) | Hard | 2026-10-14 |
 | 0184 | [Department Highest Salary](0184-department-highest-salary/README.md) | Medium | 2026-10-13 |
 | 0196 | [Delete Duplicate Emails](0196-delete-duplicate-emails/README.md) | Easy | 2026-10-12 |
 | 0176 | [Second Highest Salary](0176-second-highest-salary/README.md) | Medium | 2026-10-11 |
